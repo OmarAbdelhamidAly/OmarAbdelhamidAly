@@ -43,4 +43,4 @@ To explore a specific project, navigate to the respective project folder, and re
 If you have any questions, suggestions, or would like to collaborate, feel free to reach out:
 
 - **Email:** `omar.yaser.o.1322001@gmail.com`
-- **LinkedIn:** [My LinkedIn Profile]([https://www.linkedin.com/in/omarabdelhamid](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/)https://www.linkedin.com/in/omar-abdelhamid-204b0618a/)
+- **LinkedIn:** https://www.linkedin.com/in/omar-abdelhamid-204b0618a/
