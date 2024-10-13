@@ -31,36 +31,78 @@ I am an AI Engineer specializing in building and deploying machine learning mode
 
 ## 🎓 Certifications
 
-### AWS & Cloud
-- **AWS Certified Solutions Architect – Associate**  
-  A certification focused on designing, deploying, and managing scalable systems on AWS. Expertise in cloud architecture best practices and the AWS ecosystem.
+ML,DL,Math and problem solving:
 
-### Machine Learning & AI
-- **Machine Learning Specialization** - Stanford University (via Coursera)  
-  In-depth knowledge of supervised learning, unsupervised learning, and practical model-building techniques. Specialized in feature engineering, overfitting prevention, and ML algorithms.
+Improving Deep Neural Networks | DeepLearning.AI
+Structuring Machine Learning Projects | DeepLearning.AI
+AI and Machine Learning | Zewail City of Science and Technology
+Machine Learning & AI | AMIT Learning
+Calculus for Machine Learning and Data Science | DeepLearning.AI
+Decision Trees, SVMs, Neural Networks | Coursera
+Competitive Programming (Level 1) | Coach Academy
 
-- **Generative AI with Diffusion Models** - DeepLearning.AI  
-  Hands-on experience with state-of-the-art generative AI models such as GANs and Diffusion Models. Trained models for image synthesis and implemented real-world applications.
+MLOps:
 
-- **MLOps: Machine Learning in Production** - DeepLearning.AI  
-  Gained expertise in building scalable machine learning pipelines, automating model deployment, and implementing continuous monitoring of machine learning systems.
+Machine Learning in Production | DeepLearning.AI
+Machine Learning Deployment | Udemy
+AWS Cloud Foundations | Amazon Web Services (AWS)
+AWS Machine Learning Foundations | Amazon Web Services (AWS)
+AWS Cloud Architecting | Amazon Web Services (AWS)
+Jenkins for Beginners | KodeKloud
+Kubernetes Basics for DevOps | KodeKloud
+Git Basics for DevOps | KodeKloud
+Docker Basics for DevOps | KodeKloud
+Containers w/ Docker, Kubernetes & OpenShift | IBM
+Agile Development and Scrum | IBM
+DevOps Fundamentals | IBM
+
+Computer Vision
+
+Convolutional Neural Networks | DeepLearning.AI
+Neural Networks and Deep Learning | DeepLearning.AI
+CNNs in TensorFlow | DeepLearning.AI
+Computer Vision Fundamentals | Udacity
+Object Tracking & Localization | Udacity
+Deep Learning for Computer Vision | Udemy
+Transformers in Computer Vision | Udemy
+Deep Learning Specialization | DeepLearning.AI
+
+Natural Language Processing & GEN AI:
+
+Natural Language Processing with Classification and Vector Spaces | DeepLearning.AI
+Natural Language Processing with Sequence Models | DeepLearning.AI
+Natural Language Processing with Probabilistic Models | DeepLearning.AI
+Natural Language Processing with Attention Models | DeepLearning.AI
+Sequence Models | DeepLearning.AI
+Generative AI with Large Language Models  | DeepLearning.AI
 
 ---
 
-## 🏆 Projects
+## 🏆Top Projects
 
-- **Facial Recognition System**  
-  Developed a Flask-based facial recognition system using OpenCV and SQLAlchemy for secure login and attendance tracking.
+1. Conditional Generative Adversarial Network (CGAN) Implementation
+Developed a custom CGAN using TensorFlow and Keras to generate realistic fashion images conditioned on clothing categories. Designed intricate architectures for both the generator and discriminator, incorporating class labels for enhanced output control. Utilized advanced preprocessing and augmentation techniques, along with custom loss functions, demonstrating a comprehensive understanding of CGANs in the fashion industry.
 
-- **GAN-based Image Generation**  
-  Built a Conditional GAN (CGAN) to generate high-quality images based on category-specific input using TensorFlow.
+2. Facial Recognition Web Application
+Engineered a robust facial recognition web application using Flask, OpenCV, and SQLite. Facilitated secure user registration and login by capturing user photographs for database storage. Utilized Haar cascade classifiers for precise face detection and implemented intuitive user interfaces. Conducted extensive real-world testing, showcasing reliable performance and strong access control measures for enhanced security.
 
-- **Medical AI Chatbot**  
-  Developed an AI-powered chatbot trained on medical research papers to assist patients in understanding medical conditions and treatments using the Hugging Face and LangChain models.
+3. PaddleOCR for Text Recognition
+Implemented PaddleOCR, a powerful OCR tool, to extract text from images and documents. Analyzed its deep learning architecture, emphasizing accuracy in handling complex layouts and multilingual text. Evaluated its applications across finance, healthcare, and retail sectors, demonstrating how PaddleOCR enhances data-driven decision-making and optimizes workflow efficiencies in various industries.
 
-- **Text Classification for Sentiment Analysis**  
-  Implemented a text classification model using BERT to perform sentiment analysis on social media data. Deployed on AWS Lambda for real-time inference.
+4. Song Recommendation System
+Developed a song recommendation system utilizing K-Means clustering to suggest music based on features like energy and valence. Applied advanced data preprocessing techniques with Pandas and scikit-learn for effective dataset management. Created an interactive Flask web application, allowing users to explore personalized recommendations, reflecting innovative problem-solving and machine learning proficiency.
 
+5. Disease Prediction System
+Created a logistic regression model using scikit-learn to predict six diseases, including skin cancer and diabetes. Employed stratified sampling for dataset splitting, ensuring thorough evaluations. Integrated the model into a web app for real-time health predictions, achieving impressive accuracy on validation and test sets, showcasing strong predictive capabilities and practical application in healthcare.
+
+6. Fitness Tracker App with Pose Estimation
+Developed a fitness tracker application leveraging Flask and OpenCV for real-time exercise rep counting. Implemented Mediapipe for precise pose detection, enabling accurate body angle calculations. Designed a user-friendly web interface with real-time updates via SocketIO, ensuring seamless user access and enhancing the overall fitness tracking experience.
+
+7. AI Breed and Eye Disease Classifier
+Created an AI-powered web application using YOLOv8 for object detection, achieving 90% accuracy in classifying 60 dog breeds and 16 cat breeds. Integrated a feature to detect eye diseases in dogs, enhancing veterinary care. This project reflects innovation in AI applications for animal health and breed identification.
+
+8. Cancer Detection Web App using Image Classification and Transfer Learning
+Developed a sophisticated web application for X-ray image analysis and tumor detection, utilizing advanced AI models trained on over 170,000 images. Achieved high accuracy in detecting tumors across multiple medical scans. Focused on effective classification, delivering a user-friendly interface for accessible tumor detection in healthcare settings.
 ---
 
 ## 🌐 Connect with Me
