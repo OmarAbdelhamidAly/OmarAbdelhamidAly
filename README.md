@@ -104,8 +104,7 @@ I am deeply passionate about AI innovation, large-scale ML model deployment, and
 
 ## 📢 Let's Connect!
 
-* 🔗 GitHub: \[Your GitHub Profile URL]
-* 🔗 LinkedIn: \[Your LinkedIn Profile URL]
+* 🔗 LinkedIn: \[https://www.linkedin.com/in/omar-abdelhamid-204b0618a/]
 * 📩 Email: <omar.yaser.o.1322001@gmail.com>
 
 If you're interested in AI, ML, or Computer Vision, feel free to follow my GitHub and collaborate on exciting projects. Always open to discussions and new opportunities! 🚀
