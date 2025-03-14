@@ -1,118 +1,187 @@
-# Omar Abdelhamid - AI Engineer
+👋 Welcome to My GitHub!
 
-### Machine Learning | Computer Vision | NLP | MLOps
+🚀 About Me
 
-I am an AI Engineer specializing in building and deploying machine learning models that solve complex problems. With a strong foundation in Natural Language Processing (NLP), Computer Vision, and cloud-based architectures, I aim to push the boundaries of AI technology to provide scalable and efficient solutions.
+I am Omar Abdelhamid, a highly motivated AI Engineer with a strong background in Machine Learning, Computer Vision, NLP, and MLOps. My expertise spans deep learning, cloud deployment, AI model optimization, and scalable system architectures. Passionate about applying AI to solve real-world challenges, I continuously seek innovative ways to enhance performance and efficiency in AI-driven solutions.
 
----
+I hold a Bachelor of Science in Computer Science and Artificial Intelligence from Arab Open University, Egypt. My academic background, coupled with hands-on experience in computer vision, natural language processing, and AI model deployment, has equipped me with a strong foundation for developing cutting-edge AI applications.
 
-## 🛠 Skills
+With a commitment to continuous learning and professional growth, I am always exploring new advancements in Generative AI, LLMs, and edge AI technologies. My approach combines innovation, problem-solving, and scalable AI deployments to create impact-driven solutions.
 
-### Artificial Intelligence & Machine Learning
-- **Supervised Learning**: Linear Regression, Decision Trees, SVMs
-- **Unsupervised Learning**: Clustering, PCA
-- **Deep Learning**: CNNs, RNNs, Transformers
-- **Generative AI**: GANs, VAEs, Diffusion Models
-- **NLP**: BERT, GPT, T5, Text Classification, Sequence Modeling
-- **Computer Vision**: Object Detection (YOLO), Image Segmentation (U-Net), Face Recognition (OpenCV), OCR (PaddleOCR)
+💡 My Technical Expertise
 
-### MLOps & Cloud Technologies
-- **Cloud Platforms**: AWS (S3, EC2, Lambda, SageMaker)
-- **Containerization**: Docker, Kubernetes
-- **CI/CD**: Jenkins, GitHub Actions, Terraform
-- **Model Deployment**: Flask, FastAPI, TensorFlow Serving
+Machine Learning & Deep Learning: TensorFlow, PyTorch, Scikit-learn, XGBoost
 
-### Development Tools & Programming Languages
-- **Languages**: Python, Bash, SQL, HTML, CSS
-- **Frameworks**: TensorFlow, PyTorch, Hugging Face, Scikit-learn
-- **Version Control**: Git, GitHub
+Computer Vision: YOLO, Vision Transformers, GANs, OpenCV, image segmentation
 
----
+Natural Language Processing (NLP) & LLMs: BERT, GPT, LangChain, Retrieval-Augmented Generation (RAG)
 
-## 🎓 Certifications
+MLOps & Cloud Computing: AWS, Docker, Kubernetes, CI/CD, ONNX, TensorFlow Lite
 
-ML,DL,Math and problem solving:
+AI Deployment & Optimization: Model quantization, pruning, edge AI integration, GPU acceleration
 
-Improving Deep Neural Networks | DeepLearning.AI
-Structuring Machine Learning Projects | DeepLearning.AI
-AI and Machine Learning | Zewail City of Science and Technology
-Machine Learning & AI | AMIT Learning
-Calculus for Machine Learning and Data Science | DeepLearning.AI
-Decision Trees, SVMs, Neural Networks | Coursera
-Competitive Programming (Level 1) | Coach Academy
+Programming Languages: Python, Bash, SQL
 
-MLOps:
+DevOps & AI Integration: Flask, FastAPI, GitHub Actions, API development
 
-Machine Learning in Production | DeepLearning.AI
-Machine Learning Deployment | Udemy
-AWS Cloud Foundations | Amazon Web Services (AWS)
-AWS Machine Learning Foundations | Amazon Web Services (AWS)
-AWS Cloud Architecting | Amazon Web Services (AWS)
-Jenkins for Beginners | KodeKloud
-Kubernetes Basics for DevOps | KodeKloud
-Git Basics for DevOps | KodeKloud
-Docker Basics for DevOps | KodeKloud
-Containers w/ Docker, Kubernetes & OpenShift | IBM
-Agile Development and Scrum | IBM
-DevOps Fundamentals | IBM
+📚 Certifications & Courses
 
-Computer Vision
+Finetuning Large Language Models – DeepLearning.AI
 
-Convolutional Neural Networks | DeepLearning.AI
-Neural Networks and Deep Learning | DeepLearning.AI
-CNNs in TensorFlow | DeepLearning.AI
-Computer Vision Fundamentals | Udacity
-Object Tracking & Localization | Udacity
-Deep Learning for Computer Vision | Udemy
-Transformers in Computer Vision | Udemy
-Deep Learning Specialization | DeepLearning.AI
+AI Agents in LangGraph – DeepLearning.AI
 
-Natural Language Processing & GEN AI:
+AWS DeepRacer Competition – AWS
 
-Natural Language Processing with Classification and Vector Spaces | DeepLearning.AI
-Natural Language Processing with Sequence Models | DeepLearning.AI
-Natural Language Processing with Probabilistic Models | DeepLearning.AI
-Natural Language Processing with Attention Models | DeepLearning.AI
-Sequence Models | DeepLearning.AI
-Generative AI with Large Language Models  | DeepLearning.AI
+Attention in Transformers: Concepts and Code in PyTorch – DeepLearning.AI
 
----
+Complete Generative AI Course With Langchain and Huggingface – Udemy
 
-## 🏆Top Projects
+Knowledge Graphs for RAG – DeepLearning.AI
 
-1. Conditional Generative Adversarial Network (CGAN) Implementation
-Developed a custom CGAN using TensorFlow and Keras to generate realistic fashion images conditioned on clothing categories. Designed intricate architectures for both the generator and discriminator, incorporating class labels for enhanced output control. Utilized advanced preprocessing and augmentation techniques, along with custom loss functions, demonstrating a comprehensive understanding of CGANs in the fashion industry.
+LLMOps – DeepLearning.AI
 
-2. Facial Recognition Web Application
-Engineered a robust facial recognition web application using Flask, OpenCV, and SQLite. Facilitated secure user registration and login by capturing user photographs for database storage. Utilized Haar cascade classifiers for precise face detection and implemented intuitive user interfaces. Conducted extensive real-world testing, showcasing reliable performance and strong access control measures for enhanced security.
+LangChain for LLM Application Development – DeepLearning.AI
 
-3. PaddleOCR for Text Recognition
-Implemented PaddleOCR, a powerful OCR tool, to extract text from images and documents. Analyzed its deep learning architecture, emphasizing accuracy in handling complex layouts and multilingual text. Evaluated its applications across finance, healthcare, and retail sectors, demonstrating how PaddleOCR enhances data-driven decision-making and optimizes workflow efficiencies in various industries.
+Deep Learning with Keras and TensorFlow – IBM
 
-4. Song Recommendation System
-Developed a song recommendation system utilizing K-Means clustering to suggest music based on features like energy and valence. Applied advanced data preprocessing techniques with Pandas and scikit-learn for effective dataset management. Created an interactive Flask web application, allowing users to explore personalized recommendations, reflecting innovative problem-solving and machine learning proficiency.
+Fundamentals of AI Agents Using RAG and LangChain – IBM
 
-5. Disease Prediction System
-Created a logistic regression model using scikit-learn to predict six diseases, including skin cancer and diabetes. Employed stratified sampling for dataset splitting, ensuring thorough evaluations. Integrated the model into a web app for real-time health predictions, achieving impressive accuracy on validation and test sets, showcasing strong predictive capabilities and practical application in healthcare.
+Gen AI Foundational Models for NLP & Language Understanding – IBM
 
-6. Fitness Tracker App with Pose Estimation
-Developed a fitness tracker application leveraging Flask and OpenCV for real-time exercise rep counting. Implemented Mediapipe for precise pose detection, enabling accurate body angle calculations. Designed a user-friendly web interface with real-time updates via SocketIO, ensuring seamless user access and enhancing the overall fitness tracking experience.
+Generative AI Advanced Fine-Tuning for LLMs – IBM
 
-7. AI Breed and Eye Disease Classifier
-Created an AI-powered web application using YOLOv8 for object detection, achieving 90% accuracy in classifying 60 dog breeds and 16 cat breeds. Integrated a feature to detect eye diseases in dogs, enhancing veterinary care. This project reflects innovation in AI applications for animal health and breed identification.
+Generative AI Engineering and Fine-Tuning Transformers – IBM
 
-8. Cancer Detection Web App using Image Classification and Transfer Learning
-Developed a sophisticated web application for X-ray image analysis and tumor detection, utilizing advanced AI models trained on over 170,000 images. Achieved high accuracy in detecting tumors across multiple medical scans. Focused on effective classification, delivering a user-friendly interface for accessible tumor detection in healthcare settings.
----
+Generative AI Engineering with LLMs Specialization – IBM
 
-## 🌐 Connect with Me
+Generative AI Language Modeling with Transformers – IBM
 
-- **Email**: omar.yaser.o.1322001@gmail.com
-- **GitHub**: [OmarAbdelhamidAly](https://github.com/OmarAbdelhamidAly)
-- **LinkedIn**: [Omar Abdelhamid](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/)
+Generative AI and LLMs: Architecture and Data Preparation – IBM
 
----
+Apply Generative Adversarial Networks (GANs) – DeepLearning.AI
 
-## 📈 Let's Build Something Great Together!
+Deep Learning with PyTorch – IBM
 
-I am always eager to collaborate on innovative AI projects. If you’re looking for a dedicated professional with expertise in Machine Learning and MLOps, feel free to reach out!
+DevOps, DataOps, MLOps – Duke University
+
+Developing AI Applications with Python and Flask – IBM
+
+Device-based Models with TensorFlow Lite – DeepLearning.AI
+
+Generative Adversarial Networks (GANs) Specialization – DeepLearning.AI
+
+Linear Algebra for Machine Learning and Data Science – DeepLearning.AI
+
+Natural Language Processing in TensorFlow – DeepLearning.AI
+
+AWS Academy Graduate - AWS Academy Machine Learning for NLP – AWS
+
+Generative AI with Large Language Models – DeepLearning.AI
+
+AWS Academy Graduate - AWS Academy Machine Learning Foundations – AWS
+
+Build Basic Generative Adversarial Networks (GANs) – DeepLearning.AI
+
+Build Better Generative Adversarial Networks (GANs) – DeepLearning.AI
+
+Calculus for Machine Learning and Data Science – DeepLearning.AI
+
+Jenkins for Beginners – KodeKloud
+
+Kubernetes Basics for DevOps – KodeKloud
+
+Natural Language Processing Specialization – DeepLearning.AI
+
+Natural Language Processing with Classification and Vector Spaces – DeepLearning.AI
+
+Natural Language Processing with Probabilistic Models – DeepLearning.AI
+
+Natural Language Processing with Sequence Models – DeepLearning.AI
+
+AWS Academy Graduate - AWS Academy Cloud Architecting – AWS
+
+Docker Basics for DevOps – KodeKloud
+
+Git Basics for DevOps – KodeKloud
+
+AWS Academy Graduate - AWS Academy Cloud Foundations – AWS
+
+Deep Learning Specialization – DeepLearning.AI
+
+Introduction to Containers w/ Docker, Kubernetes & OpenShift – IBM
+
+Sequence Models – DeepLearning.AI
+
+Deep Learning for Natural Language – Udemy
+
+Introduction to Agile Development and Scrum – IBM
+
+Introduction to DevOps – IBM
+
+Machine Learning in Production – DeepLearning.AI
+
+Structuring Machine Learning Projects – DeepLearning.AI
+
+Competitive Programming Training Level 1 – Coach Academy
+
+Convolutional Neural Networks – DeepLearning.AI
+
+Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization – DeepLearning.AI
+
+Neural Networks and Deep Learning – DeepLearning.AI
+
+Introduction to Computer Vision – Udacity
+
+Object Tracking and Localization – Udacity
+
+AI and Machine Learning (Impact) – Zewail City of Science and Technology
+
+Bharat Intern AI Internship – Bharat Intern
+
+Machine Learning and AI – AMIT Learning
+
+Master Machine Learning and AI Diploma – Certified by the Egyptian Applied Syndicate
+
+Advanced Practical GenAI – Udemy
+
+Build Decision Trees, SVMs, and Artificial Neural Networks – Coursera
+
+Certificate of Achievement from ECPC – Egyptian Collegiate Programming Contest
+
+Deployment of Machine Learning Models – Udemy
+
+Basics of Practical GenAI – Udemy
+
+Convolutional Neural Networks in TensorFlow – DeepLearning.AI
+
+Deep Learning for Computer Vision – Udemy
+
+Generative AI – Udemy
+
+Multimodal GenAI RAG Apps – Udemy
+
+Transformers in Computer Vision – Udemy- AI Level 3 Program – Orange Digital Center Egypt
+
+TensorFlow Lite Specialization – DeepLearning.AI
+
+MLOps & Cloud Computing – Various Industry Courses
+
+Linear Algebra for Machine Learning – DeepLearning.AI
+
+🎯 Career Goals & Interests
+
+I am deeply passionate about AI innovation, large-scale ML model deployment, and optimization techniques. My goal is to:
+
+Build high-performance AI models that are efficient and scalable.
+
+Apply AI to healthcare, automation, and intelligent systems.
+
+Leverage MLOps best practices to streamline AI workflows.
+
+Explore Generative AI and LLM integration for advanced applications.
+
+📢 Let's Connect!
+
+🔗 GitHub: @OmarAbdelhamidAly🔗 LinkedIn: Omar Abdelhamid📩 Email: omar.yaser.o.1322001@gmail.com
+
+If you're interested in AI, ML, or Computer Vision, feel free to follow my GitHub and collaborate on exciting projects. Always open to discussions and new opportunities! 🚀
