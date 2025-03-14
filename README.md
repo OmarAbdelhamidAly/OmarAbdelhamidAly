@@ -100,6 +100,23 @@
             background-color: #e8491d;
             text-align: center;
         }
+
+        /* Style for badges */
+        .badge {
+            display: inline-block;
+            padding: 5px 10px;
+            margin: 5px;
+            background-color: #e8491d;
+            color: white;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+
+        /* Style for links */
+        .github-link {
+            display: inline-block;
+            margin-top: 10px;
+        }
     </style>
 </head>
 
@@ -148,24 +165,68 @@
             <p>
                 <strong>Machine Learning & Deep Learning:</strong> TensorFlow, PyTorch, Scikit-learn, XGBoost
             </p>
+            <div class="badge-container">
+                <span class="badge">TensorFlow</span>
+                <span class="badge">PyTorch</span>
+                <span class="badge">Scikit-learn</span>
+                <span class="badge">XGBoost</span>
+            </div>
             <p>
                 <strong>Computer Vision:</strong> YOLO, Vision Transformers, GANs, OpenCV, image segmentation
             </p>
+            <div class="badge-container">
+                <span class="badge">YOLO</span>
+                <span class="badge">Vision Transformers</span>
+                <span class="badge">GANs</span>
+                <span class="badge">OpenCV</span>
+                <span class="badge">Image Segmentation</span>
+            </div>
             <p>
                 <strong>Natural Language Processing (NLP) & LLMs:</strong> BERT, GPT, LangChain, Retrieval-Augmented Generation (RAG)
             </p>
+            <div class="badge-container">
+                <span class="badge">BERT</span>
+                <span class="badge">GPT</span>
+                <span class="badge">LangChain</span>
+                <span class="badge">RAG</span>
+            </div>
             <p>
                 <strong>MLOps & Cloud Computing:</strong> AWS, Docker, Kubernetes, CI/CD, ONNX, TensorFlow Lite
             </p>
+            <div class="badge-container">
+                <span class="badge">AWS</span>
+                <span class="badge">Docker</span>
+                <span class="badge">Kubernetes</span>
+                <span class="badge">CI/CD</span>
+                <span class="badge">ONNX</span>
+                <span class="badge">TensorFlow Lite</span>
+            </div>
             <p>
                 <strong>AI Deployment & Optimization:</strong> Model quantization, pruning, edge AI integration, GPU acceleration
             </p>
+            <div class="badge-container">
+                <span class="badge">Model Quantization</span>
+                <span class="badge">Model Pruning</span>
+                <span class="badge">Edge AI Integration</span>
+                <span class="badge">GPU Acceleration</span>
+            </div>
             <p>
                 <strong>Programming Languages:</strong> Python, Bash, SQL
             </p>
+            <div class="badge-container">
+                <span class="badge">Python</span>
+                <span class="badge">Bash</span>
+                <span class="badge">SQL</span>
+            </div>
             <p>
                 <strong>DevOps & AI Integration:</strong> Flask, FastAPI, GitHub Actions, API development
             </p>
+            <div class="badge-container">
+                <span class="badge">Flask</span>
+                <span class="badge">FastAPI</span>
+                <span class="badge">GitHub Actions</span>
+                <span class="badge">API Development</span>
+            </div>
         </div>
     </section>
 
@@ -269,7 +330,7 @@
         <div class="container">
             <h2>📢 Let's Connect!</h2>
             <p>
-                🔗 GitHub: <a href="#">@OmarAbdelhamidAly</a>
+                🔗 GitHub: <a href="#" class="github-link">@OmarAbdelhamidAly</a>
             </p>
             <p>
                 🔗 LinkedIn: <a href="#">Omar Abdelhamid</a>
