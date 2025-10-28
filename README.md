@@ -1,110 +1,121 @@
-# 👋 Welcome to My GitHub!
+# 👋 Omar Abdelhamid | AI/ML Engineer | AWS Certified
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.yaser.o.1322001@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
 
 ## 🚀 About Me
 
-I am Omar Abdelhamid, a highly motivated AI Engineer with a strong background in Machine Learning, Computer Vision, NLP, and MLOps. My expertise spans deep learning, cloud deployment, AI model optimization, and scalable system architectures. Passionate about applying AI to solve real-world challenges, I continuously seek innovative ways to enhance performance and efficiency in AI-driven solutions.
+I'm a certified **AI/ML Engineer** with expertise in **Computer Vision, NLP, and MLOps**, holding both **AWS Certified Cloud Practitioner** and **AWS Certified AI Practitioner** certifications. I specialize in developing and deploying scalable AI solutions on cloud platforms, with hands-on experience in building production-grade ML systems.
 
-I hold a Bachelor of Science in Computer Science and Artificial Intelligence from Arab Open University, Egypt. My academic background, coupled with hands-on experience in computer vision, natural language processing, and AI model deployment, has equipped me with a strong foundation for developing cutting-edge AI applications.
+🔭 **Currently working on**: Multimodal AI systems and RAG pipelines
 
-With a commitment to continuous learning and professional growth, I am always exploring new advancements in Generative AI, LLMs, and edge AI technologies. My approach combines innovation, problem-solving, and scalable AI deployments to create impact-driven solutions.
+🌱 **Learning**: Advanced LLM fine-tuning and edge AI deployment
 
-## 💡 My Technical Expertise
+💡 **Passionate about**: Building end-to-end AI solutions with robust MLOps practices
 
-* **Machine Learning & Deep Learning:** TensorFlow, PyTorch, Scikit-learn, XGBoost
-* **Computer Vision:** YOLO, Vision Transformers, GANs, OpenCV, image segmentation
-* **Natural Language Processing (NLP) & LLMs:** BERT, GPT, LangChain, Retrieval-Augmented Generation (RAG)
-* **MLOps & Cloud Computing:** AWS, Docker, Kubernetes, CI/CD, ONNX, TensorFlow Lite
-* **AI Deployment & Optimization:** Model quantization, pruning, edge AI integration, GPU acceleration
-* **Programming Languages:** Python, Bash, SQL
-* **DevOps & AI Integration:** Flask, FastAPI, GitHub Actions, API development
+## 🛠 Technical Stack
 
-## 📚 Certifications & Courses
+### 🤖 Machine Learning & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21F?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat)
 
-* Finetuning Large Language Models – DeepLearning.AI
-* AI Agents in LangGraph – DeepLearning.AI
-* AWS DeepRacer Competition – AWS
-* Attention in Transformers: Concepts and Code in PyTorch – DeepLearning.AI
-* Complete Generative AI Course With Langchain and Huggingface – Udemy
-* Knowledge Graphs for RAG – DeepLearning.AI
-* LLMOps – DeepLearning.AI
-* LangChain for LLM Application Development – DeepLearning.AI
-* Deep Learning with Keras and TensorFlow – IBM
-* Fundamentals of AI Agents Using RAG and LangChain – IBM
-* Gen AI Foundational Models for NLP & Language Understanding – IBM
-* Generative AI Advanced Fine-Tuning for LLMs – IBM
-* Generative AI Engineering and Fine-Tuning Transformers – IBM
-* Generative AI Engineering with LLMs Specialization – IBM
-* Generative AI Language Modeling with Transformers – IBM
-* Generative AI and LLMs: Architecture and Data Preparation – IBM
-* Apply Generative Adversarial Networks (GANs) – DeepLearning.AI
-* Deep Learning with PyTorch – IBM
-* DevOps, DataOps, MLOps – Duke University
-* Developing AI Applications with Python and Flask – IBM
-* Device-based Models with TensorFlow Lite – DeepLearning.AI
-* Generative Adversarial Networks (GANs) Specialization – DeepLearning.AI
-* Linear Algebra for Machine Learning and Data Science – DeepLearning.AI
-* Natural Language Processing in TensorFlow – DeepLearning.AI
-* AWS Academy Graduate - AWS Academy Machine Learning for NLP – AWS
-* Generative AI with Large Language Models – DeepLearning.AI
-* AWS Academy Graduate - AWS Academy Machine Learning Foundations – AWS
-* Build Basic Generative Adversarial Networks (GANs) – DeepLearning.AI
-* Build Better Generative Adversarial Networks (GANs) – DeepLearning.AI
-* Calculus for Machine Learning and Data Science – DeepLearning.AI
-* Jenkins for Beginners – KodeKloud
-* Kubernetes Basics for DevOps – KodeKloud
-* Natural Language Processing Specialization – DeepLearning.AI
-* Natural Language Processing with Classification and Vector Spaces – DeepLearning.AI
-* Natural Language Processing with Probabilistic Models – DeepLearning.AI
-* Natural Language Processing with Sequence Models – DeepLearning.AI
-* AWS Academy Graduate - AWS Academy Cloud Architecting – AWS
-* Docker Basics for DevOps – KodeKloud
-* Git Basics for DevOps – KodeKloud
-* AWS Academy Graduate - AWS Academy Cloud Foundations – AWS
-* Deep Learning Specialization – DeepLearning.AI
-* Introduction to Containers w/ Docker, Kubernetes & OpenShift – IBM
-* Sequence Models – DeepLearning.AI
-* Deep Learning for Natural Language – Udemy
-* Introduction to Agile Development and Scrum – IBM
-* Introduction to DevOps – IBM
-* Machine Learning in Production – DeepLearning.AI
-* Structuring Machine Learning Projects – DeepLearning.AI
-* Competitive Programming Training Level 1 – Coach Academy
-* Convolutional Neural Networks – DeepLearning.AI
-* Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization – DeepLearning.AI
-* Neural Networks and Deep Learning – DeepLearning.AI
-* Introduction to Computer Vision – Udacity
-* Object Tracking and Localization – Udacity
-* AI and Machine Learning (Impact) – Zewail City of Science and Technology
-* Bharat Intern AI Internship – Bharat Intern
-* Machine Learning and AI – AMIT Learning
-* Master Machine Learning and AI Diploma – Certified by the Egyptian Applied Syndicate
-* Advanced Practical GenAI – Udemy
-* Build Decision Trees, SVMs, and Artificial Neural Networks – Coursera
-* Certificate of Achievement from ECPC – Egyptian Collegiate Programming Contest
-* Deployment of Machine Learning Models – Udemy
-* Basics of Practical GenAI – Udemy
-* Convolutional Neural Networks in TensorFlow – DeepLearning.AI
-* Deep Learning for Computer Vision – Udemy
-* Generative AI – Udemy
-* Multimodal GenAI RAG Apps – Udemy
-* Transformers in Computer Vision – Udemy
-* AI Level 3 Program – Orange Digital Center Egypt
-* TensorFlow Lite Specialization – DeepLearning.AI
-* MLOps & Cloud Computing – Various Industry Courses
-* Linear Algebra for Machine Learning – DeepLearning.AI
+### ☁️ Cloud & DevOps
+![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![AWS AI Practitioner](https://img.shields.io/badge/AWS_AI_Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-## 🎯 Career Goals & Interests
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=mysql&logoColor=white)
 
-I am deeply passionate about AI innovation, large-scale ML model deployment, and optimization techniques. My goal is to:
+## 🏆 Certifications & Training
 
-* Build high-performance AI models that are efficient and scalable.
-* Apply AI to healthcare, automation, and intelligent systems.
-* Leverage MLOps best practices to streamline AI workflows.
-* Explore Generative AI and LLM integration for advanced applications.
+### AWS Certifications
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/your-badge-id-here)
+[![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS_AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/your-ai-badge-id-here)
 
-## 📢 Let's Connect!
+### DeepLearning.AI (39 Certificates)
+[![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-000000?style=flat&logo=deeplearningai&logoColor=white)](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/details/certifications/)
+- Deep Learning Specialization
+- GANs Specialization
+- Natural Language Processing with Deep Learning
+- Generative AI with Large Language Models
+- TensorFlow Developer Certificate
+- *[View all 39 certificates on LinkedIn](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/details/certifications/)*
 
-* 🔗 LinkedIn: \[https://www.linkedin.com/in/omar-abdelhamid-204b0618a/]
-* 📩 Email: <omar.yaser.o.1322001@gmail.com>
+### IBM (13 Certificates)
+[![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white)](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/details/certifications/)
+- Advanced Deep Learning with TensorFlow
+- AI Engineering Professional Certificate
+- MLOps & Machine Learning Engineering
+- AI Agents with RAG & LangChain
+- *[View all 13 certificates on LinkedIn](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/details/certifications/)*
 
-If you're interested in AI, ML, or Computer Vision, feel free to follow my GitHub and collaborate on exciting projects. Always open to discussions and new opportunities! 🚀
+### Udemy & KodeKloud (24+ Certificates)
+[![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=flat&logo=udemy&logoColor=white)](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/details/certifications/)
+[![KodeKloud](https://img.shields.io/badge/KodeKloud-1CA1F2?style=flat&logo=kubernetes&logoColor=white)](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/details/certifications/)
+- MLOps Bootcamp
+- Computer Vision & Deep Learning
+- Kubernetes & Docker Mastery
+- Terraform for DevOps
+- *[View all certificates on LinkedIn](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/details/certifications/)*
+
+### Udacity & Other Programs
+[![Udacity](https://img.shields.io/badge/Udacity-02B3E4?style=flat&logo=udacity&logoColor=white)](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/details/certifications/)
+- Computer Vision Nanodegree
+- Object Tracking & Localization
+- AI for Healthcare
+- *[View all certifications on LinkedIn](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/details/certifications/)*
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide=issues,contribs&count_private=true&include_all_commits=true)
+
+## 🏆 Featured Projects
+
+### 1. [Full-Stack AI E-commerce Platform](https://github.com/yourusername/ecommerce-ai)
+> AWS-deployed AI system with RAG pipeline and semantic search
+- Built with LLaMA 3-70B, MiniLM-L6-v2, and Flan-T5 (LoRA + 4-bit)
+- Implements FAISS + HNSW for large-scale retrieval (1M+ products)
+- Deployed on AWS with CI/CD pipeline and auto-scaling
+
+### 2. [Advanced Football Analytics](https://github.com/yourusername/football-analytics)
+> Real-time sports analytics with YOLO and ByteTrack
+- Implements multi-object tracking and camera movement estimation
+- Features speed analysis and ball possession statistics
+- Built with OpenCV, NumPy, and Pandas for visualization
+
+### 3. [Smart Medical Imaging System](https://github.com/yourusername/medical-ai)
+> Graduation Project with B+ grade
+- Trained on 340,000+ X-ray/MRI images using InceptionV3, DenseNet201, ViT
+- Implements secure facial recognition with DeepFace and VGG19
+- Deployed with ONNX for NVIDIA devices
+
+## 📫 Let's Connect
+
+I'm always open to discussing AI/ML projects, research opportunities, or potential collaborations. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.yaser.o.1322001@gmail.com)
+
+
+---
+
+<div align="center">
+  <h3>"The only way to do great work is to love what you do"</h3>
+  <p>- Steve Jobs</p>
+  
+  <p>Visitors: ![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)</p>
+</div>
