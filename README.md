@@ -1,6 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=220&section=header&text=Omar+Abdelhamid&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI+Systems+Engineer+%7C+LLM+%26+Agentic+AI+%7C+AWS+Certified+3x&descSize=16&descAlignY=62&descColor=a8d4f5&animation=fadeIn)
+# 👋 Hi, I'm Omar Abdelhamid
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=AI+Systems+Engineer+%7C+LLM+%26+Agentic+AI;AWS+Certified+%283%C3%97%29+%7C+Computer+Vision+%7C+MLOps)](https://git.io/typing-svg)
 
 </div>
 
@@ -132,8 +134,10 @@ omar = {
 
 ---
 
+---
+
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&animation=fadeIn)
+⭐ *If you find my work interesting, feel free to connect on [LinkedIn](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/)!*
 
 </div>
