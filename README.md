@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1F4E79,100:2E86C1&height=220&section=header&text=Omar%20Abdelhamid&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI%20Systems%20Engineer%20%7C%20LLM%20%26%20Agentic%20AI%20%7C%20AWS%20Certified%20(3%C3%97)&descSize=17&descAlignY=62&descColor=a8d4f5&animation=fadeIn"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=220&section=header&text=Omar+Abdelhamid&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI+Systems+Engineer+%7C+LLM+%26+Agentic+AI+%7C+AWS+Certified+3x&descSize=16&descAlignY=62&descColor=a8d4f5&animation=fadeIn)
 
 </div>
 
@@ -134,6 +134,6 @@ omar = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:0d1117&height=120&section=footer&animation=fadeIn"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&animation=fadeIn)
 
 </div>
