@@ -2,69 +2,50 @@
 
 # Omar Abdelhamid
 
-**AI/ML Engineer** • **AWS × 3 Certified** • **Agentic AI Specialist**
+**Junior AI/ML Engineer** • **AWS Certified (3×)** • **Agentic AI & LLM Systems**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/omar-abdelhamid-ai/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/OmarAbdelhamidAly)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:omarabdelhamid347@gmail.com)
+[![AWS](https://img.shields.io/badge/-Certifications-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/19e25546-2ade-4f45-bf50-3612dc9de2eb/public_url)
 
-*Building autonomous AI systems with multi-agent architectures and production-scale RAG pipelines*
+📍 Cairo, Egypt • 📱 +20 112 599 4141
 
 </div>
 
 ---
 
-## 🎯 What I Do
+## 👨‍💻 About Me
 
-I architect and deploy **production-grade AI systems** focusing on:
+AWS-certified AI/ML Engineer with expertise in **Agentic AI systems** and **production-scale machine learning**. Completed **1500+ hours** of specialized training in multi-agent architectures, RAG pipelines, and MLOps. 
 
-**🤖 Agentic AI Systems**  
-Designing autonomous multi-agent architectures with LangGraph for complex workflow automation, tool orchestration, and intelligent decision-making at scale.
-
-**🔍 Enterprise RAG Pipelines**  
-Building high-performance retrieval systems with vector databases (FAISS, Qdrant, Weaviate) processing millions of records with hybrid search and semantic re-ranking.
-
-**☁️ ML Infrastructure on AWS**  
-Deploying scalable ML systems on AWS infrastructure using SageMaker, Lambda, ECS with MLOps best practices for monitoring, CI/CD, and cost optimization.
-
-**🧠 LLM Fine-tuning & Optimization**  
-Fine-tuning large language models with LoRA/PEFT, implementing quantization (4-bit/8-bit), and optimizing inference for production workloads.
+Proven track record of delivering **20+ production systems** including:
+- Enterprise RAG solutions processing **1M+ products**
+- Medical AI models trained on **340K+ images**
+- Real-time computer vision applications processing **30+ FPS**
 
 ---
 
-## 🛠 Technical Stack
+## 🛠 Technical Skills
 
-### AI/ML Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+### Agentic AI & LLM Development
+LangChain • LangGraph • Multi-agent systems • Autonomous agents • Tool orchestration • ReAct patterns • GPT-4 • BERT • T5 • LLaMA 3 • Mistral • Prompt engineering • RAG architectures
 
-### LLMs & Models
-GPT-4 · Claude · LLaMA 3 · Mistral · Mixtral · BERT · T5 · Flan-T5 · Gemma · Phi-3
+### Vector Databases & Retrieval
+FAISS • HNSW • Qdrant • Weaviate • Pinecone • Chroma • Semantic search • Embedding models • Hybrid search
 
-### Vector Databases
-FAISS · Qdrant · Weaviate · Pinecone · Chroma · HNSW · Milvus
+### Natural Language Processing
+Tokenization • TF-IDF • Word2Vec • GloVe • FastText • BERT embeddings • RNNs • LSTMs • GRUs • Transformers • Seq2Seq • Attention mechanisms • NER • Sentiment analysis • Text classification
 
-### Computer Vision
-YOLOv4-v12 · Vision Transformers · EfficientNet · ResNet · DenseNet · ByteTrack · MediaPipe
+### Computer Vision & Image Processing
+YOLO (v4-v12) • EfficientNet • DenseNet • Vision Transformers • ResNet • InceptionV3 • Object detection • Pose estimation (MediaPipe) • Multi-object tracking • Image segmentation • GANs (DCGAN, WGAN, StyleGAN, VAE)
 
-### Cloud & MLOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-
-**AWS Services:** EC2 · S3 · Lambda · SageMaker · ECS · CloudWatch · IAM · VPC  
-**MLOps:** MLflow · DVC · Weights & Biases · Model Monitoring · A/B Testing · Feature Stores
-
-### Development Tools
-Python · FastAPI · Flask · Git · CI/CD · REST APIs · ONNX · TensorRT · Gradio · Streamlit
+### Cloud, MLOps & DevOps
+**AWS** (EC2, ECS, S3, Lambda, SageMaker) • Docker • Kubernetes • MLflow • Model deployment • CI/CD (Jenkins, GitHub Actions) • PyTorch • TensorFlow • Hugging Face • ONNX • FastAPI • Flask • Terraform • OpenCV
 
 ---
 
-## 🏆 Certifications
+## 🏆 AWS Certifications
 
 <div align="center">
 
@@ -72,129 +53,148 @@ Python · FastAPI · Flask · Git · CI/CD · REST APIs · ONNX · TensorRT · G
 [![AWS AI Practitioner](https://img.shields.io/badge/AWS_AI_Practitioner-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/19e25546-2ade-4f45-bf50-3612dc9de2eb/public_url)
 [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud-Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/19e25546-2ade-4f45-bf50-3612dc9de2eb/public_url)
 
-**Additional:** 64+ professional certifications from DeepLearning.AI, IBM, Udemy, and KodeKloud
-
-[View Full Certificate Portfolio →](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/details/certifications/)
+**AWS Certified Machine Learning Engineer – Associate** (January 2026)  
+**AWS Certified AI Practitioner** (September 2025)  
+**AWS Certified Cloud Practitioner** (June 2025)
 
 </div>
 
 ---
 
-## 💡 Areas of Expertise
+## 💼 Experience & Training
 
-### Agentic AI & Multi-Agent Systems
-- Autonomous agent design with LangGraph state machines
-- Tool orchestration and function calling
-- ReAct (Reasoning + Acting) patterns
-- Self-correcting agents with reflection loops
-- Multi-agent collaboration and coordination
-- Agent memory systems and context management
+### 🎓 Agentic AI Development Training
+**National Telecommunication Institute (NTI)** • *January 2026 – Present*  
+6th of October, Smart City, Egypt • **420+ intensive hours**
 
-### RAG & Information Retrieval
-- Hybrid retrieval strategies (dense + sparse)
-- Multi-stage ranking pipelines
-- Query expansion and decomposition
-- Context window optimization
-- Retrieval evaluation (NDCG, MRR, MAP)
-- Production RAG system architecture
+- Building advanced multi-agent Agentic AI systems using LangChain and LangGraph for autonomous task execution, tool orchestration, and complex workflow automation
+- Developing enterprise RAG pipelines with FAISS, Qdrant, and Weaviate vector databases achieving **35% retrieval accuracy improvement**
+- Implementing scalable systems with cloud deployment on AWS
 
-### LLM Engineering
-- Fine-tuning with LoRA, QLoRA, PEFT
-- Quantization (GPTQ, AWQ, bitsandbytes)
-- Prompt engineering and optimization
-- Chain-of-thought reasoning
-- Few-shot and zero-shot learning
-- LLM evaluation and benchmarking
+### 🍊 AI Engineering Training – Level 3
+**Orange Digital Center Egypt** • *November 2024 – January 2025*  
+Cairo, Egypt • Intensive NLP, CV & Generative AI
 
-### Computer Vision
-- Object detection and tracking
-- Pose estimation and action recognition
-- Image segmentation (semantic, instance, panoptic)
-- Generative models (GANs, VAEs, Diffusion)
-- Multi-modal vision-language models
-- Real-time video processing
+- Built generative AI models (DCGAN, VAE, WGAN) for image synthesis with **40% quality improvement**
+- Developed real-time computer vision application using YOLOv8 pose estimation processing **30+ FPS**
+- Fine-tuned BERT models for multi-class text classification achieving **92% accuracy**
 
-### MLOps & Production ML
-- Model deployment strategies (A/B testing, canary, blue-green)
-- Model monitoring and drift detection
-- Feature engineering and feature stores
-- Experiment tracking and versioning
-- Cost optimization for ML workloads
-- Data quality and validation pipelines
+### 💻 Machine Learning Internship
+**CognoRise InfoTech** • *October 2024 – November 2024* • Remote
+
+- Developed spam detection system using ensemble methods (Random Forest, XGBoost) achieving **96% precision**
+- Built sentiment analysis system comparing RNNs, LSTMs, GRUs
+- Fine-tuned BERT achieving **94% accuracy**
+
+### ☁️ AWS Machine Learning Program
+**Digital Egypt Builders Initiative (DEBI)** • *June 2024 – October 2024*  
+Cairo, Egypt • 6-month intensive program
+
+- Applied advanced ML algorithms and MLOps tools (MLflow, Hugging Face) on AWS infrastructure
+- Earned AWS Academy Graduate Certificates in ML Foundations, Cloud Architecting, and ML for NLP
+
+### ⚙️ DevOps Engineering Training
+**IT Gate Academy** • *December 2023 – September 2024*  
+Cairo, Egypt • 9 months, 260 credits
+
+- Specialized in Docker, Kubernetes, CI/CD pipelines (Jenkins, GitHub Actions)
+- Terraform for infrastructure automation and cloud deployment on AWS
+
+### 🧠 AI & Deep Learning Training
+**Amit Learning** • *July 2022 – February 2023*  
+Cairo, Egypt • 7-month intensive program
+
+- Implemented and optimized **30+ ML/DL/CV models** using TensorFlow, PyTorch, and OpenCV
+- **Graduation Project:** Designed YOLOv7-based Brain Tumor Detection System with advanced data preprocessing, model fine-tuning, and inference pipelines for high-precision tumor localization on MRI datasets
 
 ---
 
-## 📚 Currently Learning
+## 🎓 Education
+
+**Bachelor of Computer Science and Artificial Intelligence**  
+Arab Open University • September 2020 – August 2024 • Cairo, Egypt  
+**Grade:** 3.1/4.0 (Very Good)
+
+---
+
+## 📜 Additional Certifications
+
+<div align="center">
+
+**64+ Professional Certifications**
+
+**DeepLearning.AI** — 39 certifications  
+Deep Learning • GANs • NLP • Generative AI with LLMs • AI Agents with RAG
+
+**IBM** — 13 certifications  
+Deep Learning • AI Agents with RAG • DevOps
+
+**Udemy** — 12 certifications  
+MLOps • Computer Vision • Transformers
+
+**KodeKloud**  
+Docker • Kubernetes • Terraform
+
+[View Full Certificate Portfolio →](https://www.linkedin.com/in/omar-abdelhamid-ai/details/certifications/)
+
+</div>
+
+---
+
+## 🚀 What I Focus On
 
 ```python
-focus_areas = {
-    "advanced_agentic_ai": [
-        "Multi-agent coordination patterns",
-        "Agent evaluation frameworks",
-        "Long-term agent memory systems"
+expertise = {
+    "agentic_ai": [
+        "Multi-agent system design with LangGraph",
+        "Autonomous agent orchestration",
+        "Tool integration and ReAct patterns"
     ],
     
-    "distributed_training": [
-        "Multi-GPU training strategies",
-        "Distributed data parallelism",
-        "Model parallelism techniques"
+    "rag_systems": [
+        "Enterprise RAG pipelines at scale",
+        "Vector database optimization (FAISS, Qdrant, Weaviate)",
+        "Hybrid retrieval strategies"
     ],
     
-    "production_optimization": [
-        "Inference optimization (TensorRT, ONNX)",
-        "Batch processing at scale",
-        "Cost-efficient model serving"
+    "llm_engineering": [
+        "Fine-tuning with LoRA/PEFT",
+        "Prompt engineering and optimization",
+        "Production deployment on AWS"
     ],
     
-    "emerging_tech": [
-        "Mixture of Experts (MoE) models",
-        "Constitutional AI and alignment",
-        "Multimodal foundation models"
+    "computer_vision": [
+        "Real-time object detection and tracking",
+        "Pose estimation and video analytics",
+        "Medical imaging AI systems"
+    ],
+    
+    "mlops": [
+        "Model deployment and monitoring",
+        "CI/CD for ML pipelines",
+        "AWS infrastructure (SageMaker, Lambda, ECS)"
     ]
 }
 ```
 
 ---
 
-## 🎓 Education & Training
-
-**Bachelor of Computer Science & Artificial Intelligence**  
-Arab Open University | GPA: 3.1/4.0 (Very Good)
-
-**Specialized Training (1500+ hours):**
-- Agentic AI Development — National Telecommunication Institute (420h)
-- AI Engineering Level 3 — Orange Digital Center Egypt
-- AWS Machine Learning Program — Digital Egypt Builders Initiative
-- DevOps Engineering — IT Gate Academy (260 credits)
-- Deep Learning & Computer Vision — Amit Learning
-
----
-
-## 💼 What I'm Looking For
-
-I'm interested in opportunities where I can:
-
-✅ Architect and deploy **production agentic AI systems**  
-✅ Build **enterprise RAG pipelines** at scale  
-✅ Design **MLOps infrastructure** on AWS  
-✅ Lead **LLM fine-tuning** initiatives  
-✅ Contribute to **cutting-edge AI research** products
-
-**Ideal Roles:** AI/ML Engineer • MLOps Engineer • Agentic AI Developer • LLM Engineer • Applied AI Scientist
-
----
-
 ## 📫 Get in Touch
+
+I'm interested in opportunities involving:
+
+✅ Agentic AI systems development  
+✅ Enterprise RAG pipeline architecture  
+✅ LLM fine-tuning and deployment  
+✅ MLOps and production ML systems  
+✅ Computer vision applications  
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarabdelhamid347@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmarAbdelhamidAly)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-abdelhamid-ai/)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarabdelhamid347@gmail.com)
 
-**📍 Cairo, Egypt** • **📱 +20 112 599 4141**
-
-*Open to remote opportunities worldwide*
+**Open to remote opportunities worldwide**
 
 </div>
 
@@ -202,8 +202,8 @@ I'm interested in opportunities where I can:
 
 <div align="center">
 
-### 💭 "Building intelligent systems that can reason, learn, and act autonomously"
-
 ![Profile Views](https://komarev.com/ghpvc/?username=OmarAbdelhamidAly&color=0A66C2&style=flat-square)
+
+*Building production-scale AI systems with autonomous agents and RAG pipelines*
 
 </div>
