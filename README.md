@@ -1,8 +1,3 @@
-<div align="center">
-
-# Omar Abdelhamid
-
-**AI / Machine Learning Engineer**  <div align="center">
 
 # Omar Abdelhamid
 
