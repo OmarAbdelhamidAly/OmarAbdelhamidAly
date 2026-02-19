@@ -1,260 +1,186 @@
-# Hi there, I'm Omar Abdelhamid 👋
-
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarabdelhamid347@gmail.com)
-[![AWS Certified](https://img.shields.io/badge/AWS-3x_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/your-profile)
 
-**Junior AI/ML Engineer | AWS Certified (3×) | Agentic AI & LLM Systems**
+# Omar Abdelhamid
 
-*Building production-grade AI systems with LangGraph, RAG pipelines, and multi-agent architectures*
+**AI/ML Engineer** • **AWS × 3 Certified** • **Agentic AI Specialist**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/OmarAbdelhamidAly)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:omarabdelhamid347@gmail.com)
+
+*Building autonomous AI systems with multi-agent architectures and production-scale RAG pipelines*
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🎯 What I Do
 
-I'm an **AWS-certified AI/ML Engineer** specializing in **Agentic AI systems** and production-scale machine learning. With **1500+ hours** of intensive training and **20+ deployed systems**, I focus on building autonomous multi-agent architectures, enterprise RAG solutions, and scalable ML pipelines on AWS infrastructure.
+I architect and deploy **production-grade AI systems** focusing on:
 
-```python
-class OmarAbdelhamid:
-    def __init__(self):
-        self.role = "AI/ML Engineer"
-        self.location = "Cairo, Egypt 🇪🇬"
-        self.education = "B.Sc. Computer Science & AI (3.1/4.0)"
-        
-        self.specializations = [
-            "Agentic AI & Multi-Agent Systems",
-            "RAG Pipelines & Vector Databases",
-            "LLM Fine-tuning & Prompt Engineering",
-            "Computer Vision & Object Detection",
-            "MLOps & Cloud Deployment (AWS)"
-        ]
-        
-        self.currently_working_on = [
-            "LangGraph-powered autonomous agents",
-            "Enterprise RAG systems with 1M+ products",
-            "AWS SageMaker ML pipelines"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
+**🤖 Agentic AI Systems**  
+Designing autonomous multi-agent architectures with LangGraph for complex workflow automation, tool orchestration, and intelligent decision-making at scale.
 
-me = OmarAbdelhamid()
-me.say_hi()
-```
+**🔍 Enterprise RAG Pipelines**  
+Building high-performance retrieval systems with vector databases (FAISS, Qdrant, Weaviate) processing millions of records with hybrid search and semantic re-ranking.
+
+**☁️ ML Infrastructure on AWS**  
+Deploying scalable ML systems on AWS infrastructure using SageMaker, Lambda, ECS with MLOps best practices for monitoring, CI/CD, and cost optimization.
+
+**🧠 LLM Fine-tuning & Optimization**  
+Fine-tuning large language models with LoRA/PEFT, implementing quantization (4-bit/8-bit), and optimizing inference for production workloads.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Technical Stack
 
-### 🤖 Agentic AI & LLM Development
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat&logo=graph&logoColor=white)
-![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat&logo=openai&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA_3-0467DF?style=flat&logo=meta&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat&logo=mistral&logoColor=white)
+### AI/ML Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
-**Expertise:** Multi-agent systems, autonomous agents, tool orchestration, ReAct patterns, RAG architectures, prompt engineering, BERT, T5, fine-tuning with LoRA/PEFT
+### LLMs & Models
+GPT-4 · Claude · LLaMA 3 · Mistral · Mixtral · BERT · T5 · Flan-T5 · Gemma · Phi-3
 
-### 🗂️ Vector Databases & Retrieval
-![FAISS](https://img.shields.io/badge/FAISS-0081CB?style=flat&logo=meta&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-00C8A8?style=flat&logo=weaviate&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
-![Chroma](https://img.shields.io/badge/Chroma-FFA500?style=flat&logoColor=white)
+### Vector Databases
+FAISS · Qdrant · Weaviate · Pinecone · Chroma · HNSW · Milvus
 
-**Skills:** HNSW indexing, semantic search, embedding models (MiniLM, E5), hybrid search, similarity metrics
+### Computer Vision
+YOLOv4-v12 · Vision Transformers · EfficientNet · ResNet · DenseNet · ByteTrack · MediaPipe
 
-### 🧠 Natural Language Processing
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-00599C?style=flat&logoColor=white)
-
-**Expertise:** BERT embeddings, RNNs, LSTMs, GRUs, Attention mechanisms, Seq2Seq, NER, sentiment analysis, text classification, tokenization, Word2Vec, GloVe
-
-### 👁️ Computer Vision & Image Processing
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
-
-**Skills:** YOLOv4-v12, EfficientNet, DenseNet, Vision Transformers, ResNet, object detection, pose estimation, multi-object tracking, image segmentation, GANs (DCGAN, WGAN, StyleGAN, VAE)
-
-### ☁️ Cloud, MLOps & DevOps
+### Cloud & MLOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
-**AWS Services:** EC2, ECS, S3, Lambda, SageMaker, CloudWatch  
-**MLOps:** Model deployment, monitoring, CI/CD (Jenkins, GitHub Actions), PyTorch, TensorFlow, Hugging Face, ONNX, FastAPI, Flask
+**AWS Services:** EC2 · S3 · Lambda · SageMaker · ECS · CloudWatch · IAM · VPC  
+**MLOps:** MLflow · DVC · Weights & Biases · Model Monitoring · A/B Testing · Feature Stores
 
-### 💻 Programming & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+### Development Tools
+Python · FastAPI · Flask · Git · CI/CD · REST APIs · ONNX · TensorRT · Gradio · Streamlit
 
 ---
 
-## 🏆 Featured Projects
-
-### 🛒 [Full-Stack AI System for E-commerce](https://github.com/your-username/ecommerce-ai-system)
-**Tech:** LLaMA 3-70B, RAG, FAISS, HNSW, MiniLM-L6-v2, Flan-T5, LoRA, PEFT
-
-Built production-grade AI platform for Q&A, semantic search, and sentiment analysis processing **1M+ products**. Implemented RAG pipeline with hybrid retrieval achieving **35% accuracy improvement**. Fine-tuned Transformers on 110K Amazon QA pairs using 4-bit quantization.
-
-**Key Features:**
-- 🔍 Semantic product search with 95% relevance
-- 💬 Conversational Q&A with context-aware responses
-- 📊 Real-time sentiment analysis on product reviews
-- ⚡ Sub-second query latency at scale
-
----
-
-### 🤖 [LangGraph-Powered Agentic AI Chatbot](https://github.com/your-username/langgraph-chatbot)
-**Tech:** LangGraph, Mixtral-8x7B, Groq API, Multi-Agent Architecture
-
-Developed intelligent **Agentic AI chatbot** with autonomous decision-making using LangGraph state machines. Integrated multi-tool execution, sentiment analysis, memory retrieval, query expansion, and context-aware reasoning.
-
-**Key Features:**
-- 🧠 Autonomous agent with tool orchestration
-- 🔄 Complex multi-step reasoning workflows
-- 💾 Persistent conversation memory
-- 🎯 Context-aware response generation
-
----
-
-### ⚽ [Advanced Football Analytics with YOLO & ByteTrack](https://github.com/your-username/football-analytics)
-**Tech:** YOLOv8, ByteTrack, OpenCV, Multi-Object Tracking
-
-Developed AI-driven soccer analytics pipeline with real-time detection, tracking, camera movement estimation, view transformation, speed analysis, and ball possession statistics processing **30+ FPS**.
-
-**Key Features:**
-- 🎯 Real-time player & ball detection (YOLOv8)
-- 🏃 Multi-object tracking with ByteTrack
-- 📹 Camera movement compensation
-- 📊 Advanced game statistics & heatmaps
-
----
-
-### 🏥 [Smart Access & Cancer Detection System](https://github.com/your-username/cancer-detection) *(Graduation Project - Grade: B+)*
-**Tech:** InceptionV3, DenseNet201, Vision Transformer, DeepFace, ONNX, Docker
-
-Trained on **340K+ medical images** (X-ray/MRI) achieving high accuracy across multiple cancer types. Implemented secure facial recognition for access control. Deployed optimized ONNX models with Docker for production.
-
-**Key Features:**
-- 🏥 Multi-modal cancer detection (X-ray, MRI, CT)
-- 🔐 Secure facial recognition access system
-- ⚡ ONNX runtime optimization for inference
-- 🐳 Containerized deployment with Docker
-
----
-
-### 📰 [Transformer-Based News Classifier & AI Chatbot](https://github.com/your-username/news-classifier-chatbot)
-**Tech:** Custom Transformer (6-layer), BERT, LangChain, LLaMA 3, Flask, CUDA
-
-Built end-to-end news classification system with **22 categories** and conversational AI chatbot. Implemented retrieval with cosine similarity and response generation with LLaMA 3, optimized with CUDA acceleration.
-
-**Key Features:**
-- 🗞️ 22-category news classification (92% accuracy)
-- 💬 LangChain-powered conversational chatbot
-- 🔍 Semantic search with BERT embeddings
-- ⚡ GPU-accelerated inference
-
----
-
-### 🐕 [AI Breed & Eye Disease Classifier](https://github.com/your-username/pet-classifier)
-**Tech:** YOLOv8, Transfer Learning, Vercel Deployment
-
-Engineered AI-powered web app with **90% accuracy** classifying **60 dog breeds** and **16 cat breeds**, plus eye disease detection. Deployed live on Vercel with real-time inference.
-
-**Key Features:**
-- 🐶 60 dog breed classification
-- 🐱 16 cat breed classification
-- 👁️ Eye disease detection
-- 🌐 Live production deployment
-
----
-
-## 📜 Certifications
+## 🏆 Certifications
 
 <div align="center">
 
-### 🏅 AWS Certifications (Triple Certified)
-[![AWS ML Engineer](https://img.shields.io/badge/AWS_ML_Engineer-Associate-FF9900?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/badges/your-badge-id)
-[![AWS AI Practitioner](https://img.shields.io/badge/AWS_AI_Practitioner-Certified-FF9900?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/badges/your-badge-id)
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-FF9900?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/badges/your-badge-id)
+[![AWS ML Engineer](https://img.shields.io/badge/AWS_ML_Engineer-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/19e25546-2ade-4f45-bf50-3612dc9de2eb/public_url)
+[![AWS AI Practitioner](https://img.shields.io/badge/AWS_AI_Practitioner-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/19e25546-2ade-4f45-bf50-3612dc9de2eb/public_url)
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud-Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/19e25546-2ade-4f45-bf50-3612dc9de2eb/public_url)
 
-### 🎓 Additional Certifications
-- **DeepLearning.AI:** 39 certifications (Deep Learning, GANs, NLP, Generative AI with LLMs, AI Agents with RAG)
-- **IBM:** 13 certifications (Deep Learning, AI Agents, DevOps)
-- **Udemy:** 12 certifications (MLOps, Computer Vision, Transformers)
-- **KodeKloud:** Docker, Kubernetes, Terraform
+**Additional:** 64+ professional certifications from DeepLearning.AI, IBM, Udemy, and KodeKloud
 
-[View Full Certificate List on LinkedIn →](https://www.linkedin.com/in/your-profile/details/certifications/)
+[View Full Certificate Portfolio →](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/details/certifications/)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 💡 Areas of Expertise
 
-<div align="center">
-  
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&count_private=true)
+### Agentic AI & Multi-Agent Systems
+- Autonomous agent design with LangGraph state machines
+- Tool orchestration and function calling
+- ReAct (Reasoning + Acting) patterns
+- Self-correcting agents with reflection loops
+- Multi-agent collaboration and coordination
+- Agent memory systems and context management
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true)
+### RAG & Information Retrieval
+- Hybrid retrieval strategies (dense + sparse)
+- Multi-stage ranking pipelines
+- Query expansion and decomposition
+- Context window optimization
+- Retrieval evaluation (NDCG, MRR, MAP)
+- Production RAG system architecture
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true)
+### LLM Engineering
+- Fine-tuning with LoRA, QLoRA, PEFT
+- Quantization (GPTQ, AWQ, bitsandbytes)
+- Prompt engineering and optimization
+- Chain-of-thought reasoning
+- Few-shot and zero-shot learning
+- LLM evaluation and benchmarking
 
-</div>
+### Computer Vision
+- Object detection and tracking
+- Pose estimation and action recognition
+- Image segmentation (semantic, instance, panoptic)
+- Generative models (GANs, VAEs, Diffusion)
+- Multi-modal vision-language models
+- Real-time video processing
+
+### MLOps & Production ML
+- Model deployment strategies (A/B testing, canary, blue-green)
+- Model monitoring and drift detection
+- Feature engineering and feature stores
+- Experiment tracking and versioning
+- Cost optimization for ML workloads
+- Data quality and validation pipelines
 
 ---
 
-## 🎯 Current Focus
+## 📚 Currently Learning
 
-```yaml
-learning:
-  - Advanced agentic AI architectures with LangGraph
-  - Fine-tuning LLMs for domain-specific applications
-  - Distributed training on AWS SageMaker
-  - Multi-modal AI systems (vision + language)
-
-building:
-  - Enterprise RAG pipelines at scale
-  - Autonomous AI agents for workflow automation
-  - Production MLOps systems on AWS
-
-exploring:
-  - Edge AI deployment optimization
-  - AI safety and alignment
-  - Reinforcement learning for agents
+```python
+focus_areas = {
+    "advanced_agentic_ai": [
+        "Multi-agent coordination patterns",
+        "Agent evaluation frameworks",
+        "Long-term agent memory systems"
+    ],
+    
+    "distributed_training": [
+        "Multi-GPU training strategies",
+        "Distributed data parallelism",
+        "Model parallelism techniques"
+    ],
+    
+    "production_optimization": [
+        "Inference optimization (TensorRT, ONNX)",
+        "Batch processing at scale",
+        "Cost-efficient model serving"
+    ],
+    
+    "emerging_tech": [
+        "Mixture of Experts (MoE) models",
+        "Constitutional AI and alignment",
+        "Multimodal foundation models"
+    ]
+}
 ```
 
 ---
 
-## 💼 Professional Experience
+## 🎓 Education & Training
 
-### 🎓 Agentic AI Development Training
-**National Telecommunication Institute (NTI)** | *Jan 2026 – Present* | 420+ hours  
-Building advanced multi-agent Agentic AI systems using LangChain and LangGraph for autonomous task execution, tool orchestration, and complex workflow automation.
+**Bachelor of Computer Science & Artificial Intelligence**  
+Arab Open University | GPA: 3.1/4.0 (Very Good)
 
-### 🍊 AI Engineering Training (Level 3)
-**Orange Digital Center Egypt** | *Nov 2024 – Jan 2025*  
-Built generative AI models (DCGAN, VAE, WGAN) with 40% quality improvement. Developed real-time CV app with YOLOv8 pose estimation (30+ FPS). Fine-tuned BERT achieving 92% accuracy.
+**Specialized Training (1500+ hours):**
+- Agentic AI Development — National Telecommunication Institute (420h)
+- AI Engineering Level 3 — Orange Digital Center Egypt
+- AWS Machine Learning Program — Digital Egypt Builders Initiative
+- DevOps Engineering — IT Gate Academy (260 credits)
+- Deep Learning & Computer Vision — Amit Learning
 
-### 💻 Machine Learning Internship
-**CognoRise InfoTech** | *Oct 2024 – Nov 2024* | Remote  
-Developed spam detection (96% precision) and sentiment analysis (94% accuracy) systems using ensemble methods and fine-tuned Transformers.
+---
 
-### ☁️ AWS Machine Learning Program
-**Digital Egypt Builders Initiative (DEBI)** | *Jun 2024 – Oct 2024*  
-Applied advanced ML algorithms and MLOps on AWS. Earned AWS Academy Graduate Certificates in ML Foundations, Cloud Architecting, and ML for NLP.
+## 💼 What I'm Looking For
+
+I'm interested in opportunities where I can:
+
+✅ Architect and deploy **production agentic AI systems**  
+✅ Build **enterprise RAG pipelines** at scale  
+✅ Design **MLOps infrastructure** on AWS  
+✅ Lead **LLM fine-tuning** initiatives  
+✅ Contribute to **cutting-edge AI research** products
+
+**Ideal Roles:** AI/ML Engineer • MLOps Engineer • Agentic AI Developer • LLM Engineer • Applied AI Scientist
 
 ---
 
@@ -262,13 +188,13 @@ Applied advanced ML algorithms and MLOps on AWS. Earned AWS Academy Graduate Cer
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-omarabdelhamid347@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarabdelhamid347@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarabdelhamid347@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmarAbdelhamidAly)
 
-**📍 Location:** Cairo, Egypt  
-**📱 Phone:** +20 112 599 4141  
-**🌐 Available for:** Freelance, Full-time, Contract
+**📍 Cairo, Egypt** • **📱 +20 112 599 4141**
+
+*Open to remote opportunities worldwide*
 
 </div>
 
@@ -276,10 +202,8 @@ Applied advanced ML algorithms and MLOps on AWS. Earned AWS Academy Graduate Cer
 
 <div align="center">
 
-### 💡 "Building the future of AI, one agent at a time"
+### 💭 "Building intelligent systems that can reason, learn, and act autonomously"
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square)
-
-⭐ *If you find my projects helpful, consider giving them a star!*
+![Profile Views](https://komarev.com/ghpvc/?username=OmarAbdelhamidAly&color=0A66C2&style=flat-square)
 
 </div>
