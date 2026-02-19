@@ -12,6 +12,7 @@
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarabdelhamid347@gmail.com)
 [![AWS ML Engineer](https://img.shields.io/badge/AWS_ML_Engineer-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/19e25546-2ade-4f45-bf50-3612dc9de2eb/public_url)
 [![AWS AI Practitioner](https://img.shields.io/badge/AWS_AI-Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/b120869d-b214-4384-a9c6-8d1f77da7bc5)
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud-Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/1b9b8b87-ce01-441c-8f84-ed055ee9f07d/public_url)
 [![Profile Views](https://komarev.com/ghpvc/?username=OmarAbdelhamidAly&style=for-the-badge&color=1F4E79&label=PROFILE+VIEWS)](https://github.com/OmarAbdelhamidAly)
 
 </div>
@@ -22,93 +23,15 @@
 
 ```python
 omar = {
-    "journey"   : "Started building AI systems at the end of year 2 in university — 3 years self-driven",
-    "depth"     : "Year 1 → Core AI: NLP · Computer Vision · Generative Models",
-    "breadth"   : "Year 2+ → Production: Deployment · Backend · AWS Infrastructure",
-    "shipped"   : "20+ end-to-end AI systems built and deployed independently",
-    "goal"      : "Join a strong engineering team — contribute from day one & keep growing",
-    "open_to"   : ["Egypt", "UAE", "Saudi Arabia", "Remote"]
+    "journey"  : "Started building AI at end of year 2 in university — 3 years self-driven engineering",
+    "depth"    : "Core AI first → NLP · Computer Vision · Generative Models · LLM fine-tuning",
+    "breadth"  : "Then production → Deployment · Backend APIs · AWS Infrastructure · MLOps",
+    "shipped"  : "20+ end-to-end AI systems, built and deployed independently",
+    "now"      : "Agentic AI Engineering @ NTI — 420+ hours, multi-agent & enterprise RAG systems",
+    "goal"     : "Join a strong AI engineering team, contribute from day one, keep growing",
+    "open_to"  : ["Egypt", "UAE", "Saudi Arabia", "Remote"]
 }
 ```
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 [Full-Stack E-commerce AI](https://github.com/OmarAbdelhamidAly/Generative_Ai_projects/tree/main/Multimodal-EcommerceAI)
-RAG-powered Q&A + semantic search over **1M+ products**
-- LLaMA 3-70B · FAISS+HNSW · LoRA fine-tuning
-- Flan-T5 on 110K Amazon QA pairs · AWS EC2
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 [LangGraph Agentic Chatbot](https://github.com/OmarAbdelhamidAly/Generative_Ai_projects/tree/main/LangGraph-Powered-Smart-Query-AI-Chatbot)
-Stateful multi-agent system with autonomous reasoning
-- LangGraph state machines · Mixtral-8x7B · Groq
-- Tool orchestration · memory · sentiment routing
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 [AI Cancer Diagnosis + RAG](https://github.com/OmarAbdelhamidAly/Generative_Ai_projects/tree/main/AI-Powered-Cancer-Diagnosis-with-RAG-LLMs)
-Clinical decision support via medical literature retrieval
-- RAG pipeline · LangChain · FAISS · LLMs
-- Bridges imaging data with generative AI reasoning
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 [ChatSQL](https://github.com/OmarAbdelhamidAly/Generative_Ai_projects/tree/main/ChatSQL)
-Natural language → SQL for business users
-- LLM intent parsing · SQLAlchemy · Flask API
-- Zero SQL knowledge required for data access
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [Smart Access + Cancer Detection](https://github.com/OmarAbdelhamidAly/Smart-Access-Control-System_university-project)
-Medical imaging system — **340K+ X-ray/MRI images**
-- InceptionV3 · DenseNet201 · Vision Transformer
-- DeepFace access control · ONNX · Docker
-
-</td>
-<td width="50%" valign="top">
-
-### ⚽ [Football Analytics Pipeline](https://github.com/OmarAbdelhamidAly/Computer_Vision_projects/tree/main/AI_Powered_football_Analytics)
-Real-time tracking, speed analysis & possession stats
-- YOLO · ByteTrack · camera movement compensation
-- View transformation · live statistics overlay
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📰 [Transformer News Classifier](https://github.com/OmarAbdelhamidAly/Generative_Ai_projects/tree/main/Transformer-Based-News-Classifier-Chatbot)
-22-category classifier + RAG chatbot
-- 6-layer Transformer · BERT embeddings · Llama 3
-- CUDA-accelerated Flask API · LangChain retrieval
-
-</td>
-<td width="50%" valign="top">
-
-### 🐾 [AI Breed Classifier — Live ↗](https://ai-breed-finder.vercel.app/)
-**90% accuracy** — deployed & serving real users
-- YOLOv8 · 60 dog breeds + 16 cat breeds
-- Production on Vercel
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -116,7 +39,7 @@ Real-time tracking, speed analysis & possession stats
 
 <div align="center">
 
-**Agentic AI & LLMs**
+**🤖 Agentic AI & LLMs**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1F4E79?style=flat-square&logoColor=white)
@@ -126,8 +49,9 @@ Real-time tracking, speed analysis & possession stats
 ![Mixtral](https://img.shields.io/badge/Mixtral_8x7B-FF6B35?style=flat-square&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LoRA](https://img.shields.io/badge/LoRA%2FPEFT%2FQLoRA-8B5CF6?style=flat-square&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
 
-**RAG & Vector Search**
+**🔍 RAG & Vector Search**
 
 ![FAISS](https://img.shields.io/badge/FAISS-013220?style=flat-square&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=flat-square&logoColor=white)
@@ -135,7 +59,7 @@ Real-time tracking, speed analysis & possession stats
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
 ![Chroma](https://img.shields.io/badge/Chroma-7C3AED?style=flat-square&logoColor=white)
 
-**Computer Vision**
+**👁️ Computer Vision**
 
 ![YOLO](https://img.shields.io/badge/YOLO_v4--v12-00FFFF?style=flat-square&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -144,15 +68,24 @@ Real-time tracking, speed analysis & possession stats
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-00897B?style=flat-square&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 
-**MLOps & Cloud**
+**📝 NLP**
+
+![BERT](https://img.shields.io/badge/BERT-FF6F00?style=flat-square&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logoColor=white)
+
+**☁️ MLOps & Cloud**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 </div>
 
@@ -163,13 +96,14 @@ Real-time tracking, speed analysis & possession stats
 <div align="center">
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=OmarAbdelhamidAly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2E86C1&icon_color=FF9900&text_color=c9d1d9"/>
+&nbsp;
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAbdelhamidAly&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E86C1&text_color=c9d1d9&langs_count=6"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAbdelhamidAly&theme=tokyonight&hide_border=true&background=0d1117&ring=2E86C1&fire=FF9900&currStreakLabel=2E86C1&sideLabels=2E86C1" width="55%"/>
+<img src="https://nirzak-streak-stats.vercel.app?user=OmarAbdelhamidAly&theme=tokyonight&hide_border=true&background=0d1117&ring=2E86C1&fire=FF9900&currStreakLabel=2E86C1&sideLabels=2E86C1" width="56%"/>
 
 </div>
 
@@ -186,12 +120,12 @@ Real-time tracking, speed analysis & possession stats
 <div align="center">
 
 | Certification | Issuer | Date | Verify |
-|---|---|---|---|
+|:---|:---|:---|:---:|
 | ML Engineer – Associate | AWS | Jan 2026 | [🔗 Credly](https://www.credly.com/badges/19e25546-2ade-4f45-bf50-3612dc9de2eb/public_url) |
 | AI Practitioner | AWS | Sep 2025 | [🔗 Credly](https://www.credly.com/badges/b120869d-b214-4384-a9c6-8d1f77da7bc5) |
 | Cloud Practitioner | AWS | Jun 2025 | [🔗 Credly](https://www.credly.com/badges/1b9b8b87-ce01-441c-8f84-ed055ee9f07d/public_url) |
-| Deep Learning · GANs · NLP · GenAI with LLMs | DeepLearning.AI | 2023–2025 | [🔗 LinkedIn](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/details/certifications/) |
-| AI Agents · MLOps · DevOps | IBM | 2024–2025 | [🔗 LinkedIn](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/details/certifications/) |
+| Deep Learning · GANs · NLP · GenAI with LLMs (39 certs) | DeepLearning.AI | 2023–2025 | [🔗 LinkedIn](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/details/certifications/) |
+| AI Agents · MLOps · DevOps (13 certs) | IBM | 2024–2025 | [🔗 LinkedIn](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/details/certifications/) |
 | Docker · Kubernetes · Terraform | KodeKloud | 2024 | [🔗 LinkedIn](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/details/certifications/) |
 
 </div>
