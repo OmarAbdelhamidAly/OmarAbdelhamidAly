@@ -104,6 +104,7 @@ omar = {
       Massive ecosystem with 7 distinct API pipelines for complex disease analytics.
     </td>
     <td width="33%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/yolov8-multispecies-detection"><b>🐾 Multispecies Detection AI</b></a><br />
       Huge Custom Dataset pipeline identifying 60+ breeds and veterinary diseases.
     </td>
     <td width="33%" align="center">
