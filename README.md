@@ -37,6 +37,147 @@ omar = {
 
 ---
 
+## 🚀 Featured "Hero" Projects
+*The flagship implementations of my technical expertise.*
+
+<table align="center">
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/yolo-bytetrack-perspective-sports-analytics"><b>⚽ Football Analytics Pro</b></a><br />
+      Real-time player tracking & speed analysis using YOLOv8 & ByteTrack.
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/lora-finetuned-langgraph-ecommerce-search"><b>🛍️ Multimodal E-commerce</b></a><br />
+      Scaleable RAG pipeline with LLaMA 3 & Semantic Search (1M+ products).
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/biometric-multimodel-clinical-diagnostic-suite"><b>🧠 Medical Imaging Full-Stack</b></a><br />
+      End-to-end diagnostic system (Flask + ViT/DenseNet201) with 92% Accuracy.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/history-aware-agentic-rag-framework"><b>🩺 Cancer Diagnosis Agent</b></a><br />
+      Agentic RAG system for specialized medical diagnosis & patient chat.
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/spatiotemporal-lstm-action-recognition"><b>🖐️ Sign Language Detection</b></a><br />
+      Real-time Action Detection system using CNNs and LSTMs.
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/yolov8-deepsort-traffic-analysis-pipeline"><b>🏎️ Vehicle Speed Tracker</b></a><br />
+      Traffic monitoring system with YOLOv8 & DeepSORT tracking.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/gan-vae-generative-architectures"><b>🎨 Generative Art Vault</b></a><br />
+      Comprehensive collection of GANs (DCGAN, WGAN) & VAE architectures.
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/langgraph-cognitive-multiagent-orchestrator"><b>🤖 Autonomous Agent Bot</b></a><br />
+      Multi-agent smart search system built with LangGraph & Mixtral.
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/automated-biometric-facial-recognition-pipeline"><b>🆔 AI Attendance System</b></a><br />
+      End-to-end automated facial recognition and attendance product.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/langchain-react-sql-agentic-query-engine"><b>🤖 Agentic SQL Query Network</b></a><br />
+      Enterprise ReAct Agent with LangChain Tools for autonomous Database Interaction.
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/realtime-socketio-biomechanical-pose-estimation"><b>🏋️ Biomechanical Pose Engine</b></a><br />
+      Real-time Socket.IO streaming architecture for 5 multi-axial physical exercises.
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/dockerized-mlops-malware-inference"><b>🐳 Dockerized Malware MLOps</b></a><br />
+      End-to-end containerized inference pipeline with CI/CD capabilities.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/multi-disease-predictive-analytics-suite"><b>🏥 Multi-Disease Predictive Suite</b></a><br />
+      Massive ecosystem with 7 distinct API pipelines for complex disease analytics.
+    </td>
+    <td width="33%" align="center">
+      Huge Custom Dataset pipeline identifying 60+ breeds and veterinary diseases.
+    </td>
+    <td width="33%" align="center">
+      <!-- Placeholder or add another project here if desired -->
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧪 AI Expertise Areas (Labs & Research)
+*A vast collection of specialized research, targeted experiments, and technical labs revealing my depth across AI subfields.*
+
+<details>
+<summary><b>🧠 01. Generative AI & NLP Labs (8 Projects)</b></summary>
+<br>
+
+| Project | Description |
+| :--- | :--- |
+| **[llm-algorithmic-reasoning-agent](https://github.com/OmarAbdelhamidAly/Gen-AI-and-NLP-Labs/tree/main/llm-algorithmic-reasoning-agent)** | Specialized LLM implementation for step-by-step mathematical reasoning. |
+| **[transformer-nlp-classification-engine](https://github.com/OmarAbdelhamidAly/Gen-AI-and-NLP-Labs/tree/main/transformer-nlp-classification-engine)** | Multi-class news categorization using Transformers & BERT. |
+| **[text-summarization-labs](https://github.com/OmarAbdelhamidAly/Gen-AI-and-NLP-Labs/tree/main/text-summarization-labs)** | Fine-tuned models for concise document and article summarization. |
+| **[realtime-nlp-sentiment-analysis-engine](https://github.com/OmarAbdelhamidAly/Gen-AI-and-NLP-Labs/tree/main/realtime-nlp-sentiment-analysis-engine)** | Real-time sentiment and emotional state detection from text. |
+| **[search-engine-app](https://github.com/OmarAbdelhamidAly/Gen-AI-and-NLP-Labs/tree/main/search-engine-app)** | Semantic search engine application. |
+| **[codellama-fine-tuning](https://github.com/OmarAbdelhamidAly/Gen-AI-and-NLP-Labs/tree/main/codellama-fine-tuning)** | CodeLlama adaptations and fine-tuning experiments. |
+
+</details>
+
+<details>
+<summary><b>👁️ 02. Computer Vision Labs (9 Projects)</b></summary>
+<br>
+
+| Project | Description |
+| :--- | :--- |
+| **[paddleocr-medical-prescription-pipeline](https://github.com/OmarAbdelhamidAly/Computer-Vision-Labs/tree/main/paddleocr-medical-prescription-pipeline)** | Specialized OCR system for medical drug identification using PaddleOCR. |
+| **[traffic-object-detection](https://github.com/OmarAbdelhamidAly/Computer-Vision-Labs/tree/main/traffic-object-detection)** | Custom dataset detection for urban traffic monitoring. |
+| **[license-plate-detection](https://github.com/OmarAbdelhamidAly/Computer-Vision-Labs/tree/main/license-plate-detection)** | Automatic Number Plate Recognition (ANPR) system. |
+| **[brain-tumor-amit](https://github.com/OmarAbdelhamidAly/Computer-Vision-Labs/tree/main/brain-tumor-amit)** | Custom object detection model for brain tumor identification. |
+| **[security-camera-detection](https://github.com/OmarAbdelhamidAly/Computer-Vision-Labs/tree/main/security-camera-detection)** | Multi-class entity detection (Car, Bike, Person) for security streams. |
+
+</details>
+
+<details>
+<summary><b>⚙️ 03. MLOps & Production (1 Project)</b></summary>
+<br>
+
+| Project | Description |
+| :--- | :--- |
+
+</details>
+
+<details>
+<summary><b>📊 04. Classic ML & Analytics (2 Projects)</b></summary>
+<br>
+
+| Project | Description |
+| :--- | :--- |
+| **[music-recommendation-system](https://github.com/OmarAbdelhamidAly/Classic-ML-Labs/music-recommendation-system)** | Unsupervised learning engine for personalized music discovery. |
+
+</details>
+
+---
+
+## 🎖️ Specialized Programs & Internships
+These are the professional training and internship programs I have completed:
+
+*   **[Prodigy InfoTech Internship](https://github.com/OmarAbdelhamidAly/internship-prodigy-infotech)**: Software Development and AI tasks.
+*   **[CognoRise InfoTech Internship](https://github.com/OmarAbdelhamidAly/internship-cognorise-infotech)**: Data Science and ML implementations.
+*   **[Orange Digital Center (ODC) Trainee](https://github.com/OmarAbdelhamidAly/trainee-odc-program)**: Deep Learning and AI immersion program.
+
+</details>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
