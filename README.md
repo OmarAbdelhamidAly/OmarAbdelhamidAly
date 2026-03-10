@@ -161,7 +161,7 @@ omar = {
 
 | Project | Description |
 | :--- | :--- |
-| **[music-recommendation-system](https://github.com/OmarAbdelhamidAly/Classic-ML-Labs/music-recommendation-system)** | Unsupervised learning engine for personalized music discovery. |
+| **[music-recommendation-system](https://github.com/OmarAbdelhamidAly/Classic-ML-Labs/tree/main/music-recommendation-system)** | Unsupervised learning engine for personalized music discovery. |
 
 </details>
 
