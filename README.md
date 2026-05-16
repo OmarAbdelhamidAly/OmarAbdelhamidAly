@@ -6,8 +6,7 @@
 
 <br/>
 
-<!-- Social & Cert Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-abdelhamid-ai/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarabdelhamid347@gmail.com)
 [![AWS ML Engineer](https://img.shields.io/badge/AWS_ML_Engineer-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/19e25546-2ade-4f45-bf50-3612dc9de2eb/public_url)
 [![AWS AI Practitioner](https://img.shields.io/badge/AWS_AI-Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/b120869d-b214-4384-a9c6-8d1f77da7bc5)
@@ -15,7 +14,6 @@
 
 <br/>
 
-<!-- Stats Row: Total Stars + Profile Views -->
 [![Total Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/OmarAbdelhamidAly&query=$.stars&label=⭐%20Total%20Stars&style=for-the-badge&color=FFD700&labelColor=1a1a2e)](https://github.com/OmarAbdelhamidAly?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=OmarAbdelhamidAly&style=for-the-badge&color=1F4E79&label=PROFILE+VIEWS)](https://github.com/OmarAbdelhamidAly)
 
@@ -39,7 +37,86 @@ omar = {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Flagship Projects
+> *Production-grade systems — the deepest expression of my engineering.*
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/OpenQ-Federated-Agentic-Intelligence-Platform">
+        <b>🌐 OpenQ — Federated Agentic Intelligence Platform</b>
+      </a><br/>
+      <sub>Distributed multi-agent AI platform with federated intelligence orchestration.</sub><br/>
+      <img src="https://img.shields.io/github/stars/OmarAbdelhamidAly/OpenQ-Federated-Agentic-Intelligence-Platform?style=flat-square&color=FFD700" />
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/multilingual-rag-system">
+        <b>🌍 Multilingual RAG System</b>
+      </a><br/>
+      <sub>Production-grade multilingual RAG with LangGraph, FAISS HNSW & multi-agent reasoning.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/insightify-agentic-bi-platform">
+        <b>📊 Insightify — Agentic BI Platform</b>
+      </a><br/>
+      <sub>Autonomous business intelligence platform powered by agentic AI pipelines.</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/arabic-peft-align-rag-tts">
+        <b>🗣️ Arabic PEFT + RAG + TTS</b>
+      </a><br/>
+      <sub>Arabic LLM fine-tuning (PEFT/LoRA), RAG alignment & text-to-speech pipeline.</sub><br/>
+      <img src="https://img.shields.io/github/stars/OmarAbdelhamidAly/arabic-peft-align-rag-tts?style=flat-square&color=FFD700" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/lora-finetuned-langgraph-ecommerce-search">
+        <b>🛍️ Multimodal E-commerce RAG</b>
+      </a><br/>
+      <sub>Scalable RAG pipeline with LLaMA 3 & Semantic Search (1M+ products).</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/biometric-multimodel-clinical-diagnostic-suite">
+        <b>🧠 Medical Imaging Full-Stack</b>
+      </a><br/>
+      <sub>End-to-end diagnostic system (Flask + ViT/DenseNet201) — 92% accuracy.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤖 Agentic AI Systems
+
+<table align="center">
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/langgraph-cognitive-multiagent-orchestrator">
+        <b>🧩 Multi-Agent Orchestrator</b>
+      </a><br/>
+      <sub>Cognitive multi-agent smart search built with LangGraph & Mixtral.</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/langchain-react-sql-agentic-query-engine">
+        <b>🗄️ Agentic SQL Query Engine</b>
+      </a><br/>
+      <sub>Enterprise ReAct Agent with LangChain for autonomous database interaction.</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/history-aware-agentic-rag-framework">
+        <b>🩺 Cancer Diagnosis Agent</b>
+      </a><br/>
+      <sub>History-aware agentic RAG for medical diagnosis & patient chat.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 👁️ Computer Vision Systems
 
 <table align="center">
   <tr>
@@ -47,68 +124,22 @@ omar = {
       <a href="https://github.com/OmarAbdelhamidAly/yolo-bytetrack-perspective-sports-analytics">
         <b>⚽ Football Analytics Pro</b>
       </a><br/>
-      <sub>Real-time player tracking & speed analysis using YOLOv8 & ByteTrack.</sub>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/OmarAbdelhamidAly/lora-finetuned-langgraph-ecommerce-search">
-        <b>🛍️ Multimodal E-commerce RAG</b>
-      </a><br/>
-      <sub>Scalable RAG pipeline with LLaMA 3 & Semantic Search (1M+ products).</sub>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/OmarAbdelhamidAly/biometric-multimodel-clinical-diagnostic-suite">
-        <b>🧠 Medical Imaging Full-Stack</b>
-      </a><br/>
-      <sub>End-to-end diagnostic system (Flask + ViT/DenseNet201) — 92% accuracy.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-      <a href="https://github.com/OmarAbdelhamidAly/history-aware-agentic-rag-framework">
-        <b>🩺 Cancer Diagnosis Agent</b>
-      </a><br/>
-      <sub>Agentic RAG system for specialized medical diagnosis & patient chat.</sub>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/OmarAbdelhamidAly/spatiotemporal-lstm-action-recognition">
-        <b>🖐️ Sign Language Detection</b>
-      </a><br/>
-      <sub>Real-time action detection system using CNNs and LSTMs.</sub>
+      <sub>Real-time player tracking & speed analysis — YOLOv8 & ByteTrack.</sub>
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/OmarAbdelhamidAly/yolov8-deepsort-traffic-analysis-pipeline">
         <b>🏎️ Vehicle Speed Tracker</b>
       </a><br/>
-      <sub>Traffic monitoring system with YOLOv8 & DeepSORT tracking.</sub>
+      <sub>Traffic monitoring pipeline with YOLOv8 & DeepSORT.</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/spatiotemporal-lstm-action-recognition">
+        <b>🖐️ Sign Language Detection</b>
+      </a><br/>
+      <sub>Real-time spatiotemporal action recognition via CNNs and LSTMs.</sub>
     </td>
   </tr>
   <tr>
-    <td width="33%" align="center">
-      <a href="https://github.com/OmarAbdelhamidAly/gan-vae-generative-architectures">
-        <b>🎨 Generative Art Vault</b>
-      </a><br/>
-      <sub>Comprehensive collection of GANs (DCGAN, WGAN) & VAE architectures.</sub>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/OmarAbdelhamidAly/langgraph-cognitive-multiagent-orchestrator">
-        <b>🤖 Autonomous Agent Bot</b>
-      </a><br/>
-      <sub>Multi-agent smart search system built with LangGraph & Mixtral.</sub>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/OmarAbdelhamidAly/automated-biometric-facial-recognition-pipeline">
-        <b>🆔 AI Attendance System</b>
-      </a><br/>
-      <sub>End-to-end automated facial recognition and attendance product.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-      <a href="https://github.com/OmarAbdelhamidAly/langchain-react-sql-agentic-query-engine">
-        <b>🗄️ Agentic SQL Query Engine</b>
-      </a><br/>
-      <sub>Enterprise ReAct Agent with LangChain Tools for autonomous database interaction.</sub>
-    </td>
     <td width="33%" align="center">
       <a href="https://github.com/OmarAbdelhamidAly/realtime-socketio-biomechanical-pose-estimation">
         <b>🏋️ Biomechanical Pose Engine</b>
@@ -116,64 +147,97 @@ omar = {
       <sub>Real-time Socket.IO streaming for 5 multi-axial physical exercises.</sub>
     </td>
     <td width="33%" align="center">
-      <a href="https://github.com/OmarAbdelhamidAly/dockerized-mlops-malware-inference">
-        <b>🐳 Dockerized Malware MLOps</b>
+      <a href="https://github.com/OmarAbdelhamidAly/automated-biometric-facial-recognition-pipeline">
+        <b>🆔 AI Attendance System</b>
       </a><br/>
-      <sub>End-to-end containerized inference pipeline with CI/CD capabilities.</sub>
+      <sub>End-to-end facial recognition and attendance product.</sub>
     </td>
-  </tr>
-  <tr>
     <td width="33%" align="center">
       <a href="https://github.com/OmarAbdelhamidAly/multi-disease-predictive-analytics-suite">
         <b>🏥 Multi-Disease Predictive Suite</b>
       </a><br/>
       <sub>7 distinct API pipelines for complex disease analytics.</sub>
     </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/OmarAbdelhamidAly/yolov8-multispecies-detection">
-        <b>🐾 Multispecies Detection AI</b>
-      </a><br/>
-      <sub>Custom dataset pipeline identifying 60+ breeds & veterinary diseases.</sub>
-    </td>
-    <td width="33%" align="center"></td>
   </tr>
 </table>
 
 ---
 
-## 🧪 AI Research & Labs
+## ⚙️ MLOps & Infrastructure
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/dockerized-mlops-malware-inference">
+        <b>🐳 Dockerized Malware MLOps</b>
+      </a><br/>
+      <sub>Containerized inference pipeline with CI/CD capabilities.</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/AWS-SAA">
+        <b>☁️ AWS Solutions Architect Labs</b>
+      </a><br/>
+      <sub>Infrastructure-as-Code (Terraform/HCL) labs for AWS SAA prep.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎨 Generative AI
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/gan-vae-generative-architectures">
+        <b>🎨 Generative Art Vault</b>
+      </a><br/>
+      <sub>GANs (DCGAN, WGAN) & VAE architectures collection.</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/Researcher-Room">
+        <b>🔬 Researcher Room</b>
+      </a><br/>
+      <sub>Research tooling and exploration environment.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧪 Research Labs & Deep Dives
 
 <details>
-<summary><b>🧠 01. Generative AI & NLP Labs (8 Projects)</b></summary>
+<summary><b>🧠 Generative AI & NLP Labs</b></summary>
 <br>
 
 | Project | Description |
 | :--- | :--- |
-| **[llm-algorithmic-reasoning-agent](https://github.com/OmarAbdelhamidAly/Gen-AI-and-NLP-Labs/tree/main/llm-algorithmic-reasoning-agent)** | Specialized LLM for step-by-step mathematical reasoning. |
+| **[llm-algorithmic-reasoning-agent](https://github.com/OmarAbdelhamidAly/Gen-AI-and-NLP-Labs/tree/main/llm-algorithmic-reasoning-agent)** | LLM for step-by-step mathematical reasoning. |
 | **[transformer-nlp-classification-engine](https://github.com/OmarAbdelhamidAly/Gen-AI-and-NLP-Labs/tree/main/transformer-nlp-classification-engine)** | Multi-class news categorization using Transformers & BERT. |
-| **[text-summarization-labs](https://github.com/OmarAbdelhamidAly/Gen-AI-and-NLP-Labs/tree/main/text-summarization-labs)** | Fine-tuned models for concise document and article summarization. |
-| **[realtime-nlp-sentiment-analysis-engine](https://github.com/OmarAbdelhamidAly/Gen-AI-and-NLP-Labs/tree/main/realtime-nlp-sentiment-analysis-engine)** | Real-time sentiment and emotional state detection from text. |
+| **[text-summarization-labs](https://github.com/OmarAbdelhamidAly/Gen-AI-and-NLP-Labs/tree/main/text-summarization-labs)** | Fine-tuned models for concise document summarization. |
+| **[realtime-nlp-sentiment-analysis-engine](https://github.com/OmarAbdelhamidAly/Gen-AI-and-NLP-Labs/tree/main/realtime-nlp-sentiment-analysis-engine)** | Real-time sentiment & emotional state detection. |
 | **[search-engine-app](https://github.com/OmarAbdelhamidAly/Gen-AI-and-NLP-Labs/tree/main/search-engine-app)** | Semantic search engine application. |
-| **[codellama-fine-tuning](https://github.com/OmarAbdelhamidAly/Gen-AI-and-NLP-Labs/tree/main/codellama-fine-tuning)** | CodeLlama adaptations and fine-tuning experiments. |
+| **[codellama-fine-tuning](https://github.com/OmarAbdelhamidAly/Gen-AI-and-NLP-Labs/tree/main/codellama-fine-tuning)** | CodeLlama fine-tuning experiments. |
 
 </details>
 
 <details>
-<summary><b>👁️ 02. Computer Vision Labs (9 Projects)</b></summary>
+<summary><b>👁️ Computer Vision Labs</b></summary>
 <br>
 
 | Project | Description |
 | :--- | :--- |
-| **[paddleocr-medical-prescription-pipeline](https://github.com/OmarAbdelhamidAly/Computer-Vision-Labs/tree/main/paddleocr-medical-prescription-pipeline)** | Specialized OCR for medical drug identification using PaddleOCR. |
+| **[paddleocr-medical-prescription-pipeline](https://github.com/OmarAbdelhamidAly/Computer-Vision-Labs/tree/main/paddleocr-medical-prescription-pipeline)** | Specialized OCR for medical drug identification. |
 | **[traffic-object-detection](https://github.com/OmarAbdelhamidAly/Computer-Vision-Labs/tree/main/traffic-object-detection)** | Custom dataset detection for urban traffic monitoring. |
-| **[license-plate-detection](https://github.com/OmarAbdelhamidAly/Computer-Vision-Labs/tree/main/license-plate-detection)** | Automatic Number Plate Recognition (ANPR) system. |
-| **[brain-tumor-amit](https://github.com/OmarAbdelhamidAly/Computer-Vision-Labs/tree/main/brain-tumor-amit)** | Custom object detection model for brain tumor identification. |
-| **[security-camera-detection](https://github.com/OmarAbdelhamidAly/Computer-Vision-Labs/tree/main/security-camera-detection)** | Multi-class entity detection (Car, Bike, Person) for security streams. |
+| **[license-plate-detection](https://github.com/OmarAbdelhamidAly/Computer-Vision-Labs/tree/main/license-plate-detection)** | Automatic Number Plate Recognition (ANPR). |
+| **[brain-tumor-amit](https://github.com/OmarAbdelhamidAly/Computer-Vision-Labs/tree/main/brain-tumor-amit)** | Custom object detection for brain tumor identification. |
+| **[security-camera-detection](https://github.com/OmarAbdelhamidAly/Computer-Vision-Labs/tree/main/security-camera-detection)** | Multi-class detection (Car, Bike, Person) for security streams. |
 
 </details>
 
 <details>
-<summary><b>📊 03. Classic ML & Analytics</b></summary>
+<summary><b>📊 Classic ML & Analytics</b></summary>
 <br>
 
 | Project | Description |
@@ -273,9 +337,10 @@ omar = {
 | ML Engineer – Associate | AWS | Jan 2026 | [🔗 Credly](https://www.credly.com/badges/19e25546-2ade-4f45-bf50-3612dc9de2eb/public_url) |
 | AI Practitioner | AWS | Sep 2025 | [🔗 Credly](https://www.credly.com/badges/b120869d-b214-4384-a9c6-8d1f77da7bc5) |
 | Cloud Practitioner | AWS | Jun 2025 | [🔗 Credly](https://www.credly.com/badges/1b9b8b87-ce01-441c-8f84-ed055ee9f07d/public_url) |
-| Deep Learning · GANs · NLP · GenAI with LLMs (39 certs) | DeepLearning.AI | 2023–2025 | [🔗 LinkedIn](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/details/certifications/) |
-| AI Agents · MLOps · DevOps (13 certs) | IBM | 2024–2025 | [🔗 LinkedIn](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/details/certifications/) |
-| Docker · Kubernetes · Terraform | KodeKloud | 2024 | [🔗 LinkedIn](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/details/certifications/) |
+| Solutions Architect – Associate | AWS | In Progress 🔄 | [📂 Labs](https://github.com/OmarAbdelhamidAly/AWS-SAA) |
+| Deep Learning · GANs · NLP · GenAI with LLMs (39 certs) | DeepLearning.AI | 2023–2025 | [🔗 LinkedIn](https://www.linkedin.com/in/omar-abdelhamid-ai/details/certifications/) |
+| AI Agents · MLOps · DevOps (13 certs) | IBM | 2024–2025 | [🔗 LinkedIn](https://www.linkedin.com/in/omar-abdelhamid-ai/details/certifications/) |
+| Docker · Kubernetes · Terraform | KodeKloud | 2024 | [🔗 LinkedIn](https://www.linkedin.com/in/omar-abdelhamid-ai/details/certifications/) |
 
 </div>
 
@@ -285,12 +350,12 @@ omar = {
 
 - **[Prodigy InfoTech Internship](https://github.com/OmarAbdelhamidAly/internship-prodigy-infotech)** — Software Development and AI tasks
 - **[CognoRise InfoTech Internship](https://github.com/OmarAbdelhamidAly/internship-cognorise-infotech)** — Data Science and ML implementations
-- **[Orange Digital Center (ODC) Trainee](https://github.com/OmarAbdelhamidAly/trainee-odc-program)** — Deep Learning and AI immersion program
+- **[Orange Digital Center — AI Level 3](https://github.com/OmarAbdelhamidAly/Orange-Digital-Center-AI-Level-3-Training)** — Deep Learning and AI immersion program
 
 ---
 
 <div align="center">
 
-⭐ *If you find my work valuable, a star on any repo means a lot — and feel free to connect on [LinkedIn](https://www.linkedin.com/in/omar-abdelhamid-204b0618a/)!*
+⭐ *If you find my work valuable, a star on any repo means a lot — and feel free to connect on [LinkedIn](https://www.linkedin.com/in/omar-abdelhamid-ai/)!*
 
 </div>
