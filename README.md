@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-abdelhamid-ai/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarabdelhamid347@gmail.com)
-[![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/OmarAbdelhamidAly/AWS-SAA)
+[![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/991d0485-9af6-4d72-b12f-7ce99d38f272/public_url)
 [![AWS ML Engineer](https://img.shields.io/badge/AWS_ML_Engineer-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/19e25546-2ade-4f45-bf50-3612dc9de2eb/public_url)
 [![AWS AI Practitioner](https://img.shields.io/badge/AWS_AI-Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/b120869d-b214-4384-a9c6-8d1f77da7bc5)
 [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud-Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/1b9b8b87-ce01-441c-8f84-ed055ee9f07d/public_url)
@@ -415,7 +415,7 @@ omar = {
 
 | Certification | Issuer | Date | Verify |
 |:---|:---|:---|:---:|
-| Solutions Architect – Associate | AWS | Jul 2026 | [📂 Labs](https://github.com/OmarAbdelhamidAly/AWS-SAA) |
+| Solutions Architect – Associate | AWS | Jul 2026 | [🔗 Credly](https://www.credly.com/badges/991d0485-9af6-4d72-b12f-7ce99d38f272/public_url) |
 | ML Engineer – Associate | AWS | Jan 2026 | [🔗 Credly](https://www.credly.com/badges/19e25546-2ade-4f45-bf50-3612dc9de2eb/public_url) |
 | AI Practitioner | AWS | Sep 2025 | [🔗 Credly](https://www.credly.com/badges/b120869d-b214-4384-a9c6-8d1f77da7bc5) |
 | Cloud Practitioner | AWS | Jun 2025 | [🔗 Credly](https://www.credly.com/badges/1b9b8b87-ce01-441c-8f84-ed055ee9f07d/public_url) |
