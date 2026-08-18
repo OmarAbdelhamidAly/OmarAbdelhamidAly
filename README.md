@@ -398,30 +398,6 @@ omar = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=OmarAbdelhamidAly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2E86C1&icon_color=FF9900&text_color=c9d1d9"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAbdelhamidAly&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E86C1&text_color=c9d1d9&langs_count=6"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app?user=OmarAbdelhamidAly&theme=tokyonight&hide_border=true&background=0d1117&ring=2E86C1&fire=FF9900&currStreakLabel=2E86C1&sideLabels=2E86C1" width="56%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarAbdelhamidAly&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2E86C1&line=2E86C1&point=FF9900&area=true&area_color=1F4E79" width="100%"/>
-
-</div>
-
----
-
 ## 🏆 Certifications
 
 <div align="center">
