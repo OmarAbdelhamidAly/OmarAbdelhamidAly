@@ -2,12 +2,13 @@
 
 # Omar Abdelhamid
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=AI+Systems+Engineer+%7C+LLM+%26+Agentic+AI;AWS+Certified+%283%C3%97%29+%7C+Computer+Vision+%7C+MLOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=AI+Systems+Engineer+%7C+LLM+%26+Agentic+AI;AWS+Certified+%284%C3%97%29+%7C+Computer+Vision+%7C+MLOps)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-abdelhamid-ai/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarabdelhamid347@gmail.com)
+[![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/OmarAbdelhamidAly/AWS-SAA)
 [![AWS ML Engineer](https://img.shields.io/badge/AWS_ML_Engineer-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/19e25546-2ade-4f45-bf50-3612dc9de2eb/public_url)
 [![AWS AI Practitioner](https://img.shields.io/badge/AWS_AI-Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/b120869d-b214-4384-a9c6-8d1f77da7bc5)
 [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud-Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/1b9b8b87-ce01-441c-8f84-ed055ee9f07d/public_url)
@@ -29,7 +30,9 @@ omar = {
     "depth"    : "Core AI first → NLP · Computer Vision · Generative Models · LLM fine-tuning",
     "breadth"  : "Then production → Deployment · Backend APIs · AWS Infrastructure · MLOps",
     "shipped"  : "20+ end-to-end AI systems, built and deployed independently",
-    "now"      : "Agentic AI Engineering @ NTI — 420+ hours, multi-agent & enterprise RAG systems",
+    "now"      : "AI R&D Intern @ Orange Innovation Egypt — applied research in Agentic AI & autonomous systems",
+    "graduate" : "Agentic AI Engineering @ NTI — 420+ hours, multi-agent & enterprise RAG systems",
+    "studying" : "M.Sc. in Artificial Intelligence @ Benha University",
     "goal"     : "Join a strong AI engineering team, contribute from day one, keep growing",
     "open_to"  : ["Egypt", "UAE", "Saudi Arabia", "Remote"]
 }
@@ -412,10 +415,10 @@ omar = {
 
 | Certification | Issuer | Date | Verify |
 |:---|:---|:---|:---:|
+| Solutions Architect – Associate | AWS | Jul 2026 | [📂 Labs](https://github.com/OmarAbdelhamidAly/AWS-SAA) |
 | ML Engineer – Associate | AWS | Jan 2026 | [🔗 Credly](https://www.credly.com/badges/19e25546-2ade-4f45-bf50-3612dc9de2eb/public_url) |
 | AI Practitioner | AWS | Sep 2025 | [🔗 Credly](https://www.credly.com/badges/b120869d-b214-4384-a9c6-8d1f77da7bc5) |
 | Cloud Practitioner | AWS | Jun 2025 | [🔗 Credly](https://www.credly.com/badges/1b9b8b87-ce01-441c-8f84-ed055ee9f07d/public_url) |
-| Solutions Architect – Associate | AWS | In Progress 🔄 | [📂 Labs](https://github.com/OmarAbdelhamidAly/AWS-SAA) |
 | Deep Learning · GANs · NLP · GenAI with LLMs (39 certs) | DeepLearning.AI | 2023–2025 | [🔗 LinkedIn](https://www.linkedin.com/in/omar-abdelhamid-ai/details/certifications/) |
 | AI Agents · MLOps · DevOps (13 certs) | IBM | 2024–2025 | [🔗 LinkedIn](https://www.linkedin.com/in/omar-abdelhamid-ai/details/certifications/) |
 | Docker · Kubernetes · Terraform | KodeKloud | 2024 | [🔗 LinkedIn](https://www.linkedin.com/in/omar-abdelhamid-ai/details/certifications/) |
@@ -424,8 +427,10 @@ omar = {
 
 ---
 
-## 🎖️ Programs & Internships
+## 🎓 Education & Programs
 
+- **M.Sc. in Artificial Intelligence** — Benha University, Faculty of Computers & AI *(Mar 2026 – Present)*
+- **Agentic AI Engineering Program** — National Telecommunication Institute (NTI), 420+ hours *(Completed, Jan 2026)*
 - **[Prodigy InfoTech Internship](https://github.com/OmarAbdelhamidAly/internship-prodigy-infotech)** — Software Development and AI tasks
 - **[CognoRise InfoTech Internship](https://github.com/OmarAbdelhamidAly/internship-cognorise-infotech)** — Data Science and ML implementations
 - **[Orange Digital Center — AI Level 3](https://github.com/OmarAbdelhamidAly/Orange-Digital-Center-AI-Level-3-Training)** — Deep Learning and AI immersion program
