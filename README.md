@@ -95,6 +95,16 @@ omar = {
 <table align="center">
   <tr>
     <td width="50%" align="center">
+      <a href="https://github.com/OmarAbdelhamidAly/nt-smoco-kbqa">
+        <b>📄 NT-sMoCo — Dense Retrieval &amp; Contrastive Learning for KBQA</b>
+      </a><br/>
+      <sub>Published M.Sc. research (<i>Expert Systems With Applications</i>, Vol. 296, 2026) — Dual-BERT DPR with a Normalized-Temperature Scaled Momentum Contrastive framework and a Graph Attention Network over Freebase subgraphs, for Knowledge-Based QA under incomplete KB coverage. +7.9% Hits@1 and +8% F1 over the best prior baseline on WebQSP (p &lt; 0.0001).</sub><br/><br/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/BERT_DPR-FF6F00?style=flat-square" />
+      <img src="https://img.shields.io/badge/GATv2-1F4E79?style=flat-square" />
+      <a href="https://doi.org/10.1016/j.eswa.2025.129025"><img src="https://img.shields.io/badge/DOI-10.1016%2Fj.eswa.2025.129025-B31B1B?style=flat-square" /></a>
+    </td>
+    <td width="50%" align="center">
       <a href="https://github.com/OmarAbdelhamidAly/multilingual-rag-system">
         <b>🌍 Production-Grade Multilingual RAG</b>
       </a><br/>
@@ -103,6 +113,8 @@ omar = {
       <img src="https://img.shields.io/badge/FAISS_HNSW-013220?style=flat-square" />
       <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <a href="https://github.com/OmarAbdelhamidAly/history-aware-agentic-rag-framework">
         <b>🩺 History-Aware Agentic RAG</b>
@@ -112,6 +124,7 @@ omar = {
       <img src="https://img.shields.io/badge/Chroma-7C3AED?style=flat-square" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
+    <td width="50%" align="center"></td>
   </tr>
 </table>
 
@@ -124,9 +137,9 @@ omar = {
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/OmarAbdelhamidAly/arabic-peft-align-rag-tts">
-        <b>🗣️ Arabic PEFT · RAG · TTS Pipeline</b>
+        <b>🗣️ Arabic Mental Health LLM — Production Alignment &amp; MLOps Engine</b>
       </a><br/>
-      <sub>Full Arabic NLP stack — LoRA/QLoRA fine-tuning for MSA & dialect alignment, RAG grounding, and neural TTS output in a single inference pipeline.</sub><br/><br/>
+      <sub>Fine-tuned Qwen2.5-3B via Unsloth (4-bit NF4), benchmarked 6 preference-optimization algorithms (DPO/IPO/KTO/ORPO/SimPO/RLOO) via MLflow reward-margin tracking, and served the winning model (SimPO) through NVIDIA Triton + vLLM on Kubernetes (KServe) — orchestrated end-to-end by a zero-touch Kubeflow Pipelines DAG.</sub><br/><br/>
       <img src="https://img.shields.io/badge/LoRA%2FQLoRA-8B5CF6?style=flat-square" />
       <img src="https://img.shields.io/badge/PEFT-FFD21E?style=flat-square" />
       <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
