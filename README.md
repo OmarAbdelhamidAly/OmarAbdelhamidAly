@@ -420,8 +420,6 @@ omar = {
 
 - **M.Sc. in Artificial Intelligence** — Benha University, Faculty of Computers & AI *(Mar 2026 – Present)*
 - **Agentic AI Engineering Program** — National Telecommunication Institute (NTI), 420+ hours *(Completed, Jan 2026)*
-- **[Prodigy InfoTech Internship](https://github.com/OmarAbdelhamidAly/internship-prodigy-infotech)** — Software Development and AI tasks
-- **[CognoRise InfoTech Internship](https://github.com/OmarAbdelhamidAly/internship-cognorise-infotech)** — Data Science and ML implementations
 - **[Orange Digital Center — AI Level 3](https://github.com/OmarAbdelhamidAly/Orange-Digital-Center-AI-Level-3-Training)** — Deep Learning and AI immersion program
 
 ---
